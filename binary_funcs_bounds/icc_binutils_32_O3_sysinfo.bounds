@@ -1,0 +1,61 @@
+FUNCTIONS BOUNDS - 
+Func Name: '(indirectstring,offset:0x43a):yylex'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804a8c0', '0x804b670')]
+-------------------
+Func Name: '(indirectstring,offset:0x79d):yyset_out'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804c620', '0x804c630')]
+-------------------
+Func Name: '(indirectstring,offset:0x6f7):yy_scan_buffer'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804beb0', '0x804c060')]
+-------------------
+Func Name: '(indirectstring,offset:0x699):yy_switch_to_buffer'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804b9d0', '0x804bb10')]
+-------------------
+Func Name: '(indirectstring,offset:0x769):yyget_text'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804c5f0', '0x804c600')]
+-------------------
+Func Name: '(indirectstring,offset:0x6e4):yypop_buffer_state'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804be10', '0x804beb0')]
+-------------------
+Func Name: '(indirectstring,offset:0x774):yyset_lineno'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804c600', '0x804c610')]
+-------------------
+Func Name: '(indirectstring,offset:0x78d):yyset_in'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804c610', '0x804c620')]
+-------------------
+Func Name: '(indirectstring,offset:0x7af):yyget_debug'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804c630', '0x804c640')]
+-------------------
+Func Name: '(indirectstring,offset:0x6b8):yy_delete_buffer'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804bc60', '0x804bcc0')]
+-------------------
+Func Name: '(indirectstring,offset:0x7bb):yyset_debug'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804c640', '0x804c650')]
+-------------------
+Func Name: '(indirectstring,offset:0x6d0):yypush_buffer_state'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804bcc0', '0x804be10')]
+-------------------
+Func Name: '(indirectstring,offset:0x74b):yyget_in'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804c5c0', '0x804c5d0')]
+-------------------
+Func Name: '(indirectstring,offset:0x7ce):yylex_destroy'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804c650', '0x804c6e0')]
+-------------------
+Func Name: '(indirectstring,offset:0x9d):main'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8048b70', '0x8049b20')]
+-------------------
+Func Name: '(indirectstring,offset:0x75e):yyget_leng'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804c5e0', '0x804c5f0')]
+-------------------
+Func Name: '(indirectstring,offset:0x73e):yyget_lineno'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804c5b0', '0x804c5c0')]
+-------------------
+Func Name: '(indirectstring,offset:0x706):yy_scan_string'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804c060', '0x804c320')]
+-------------------
+Func Name: '(indirectstring,offset:0x754):yyget_out'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804c5d0', '0x804c5e0')]
+-------------------
+Func Name: '(indirectstring,offset:0x68f):yyrestart'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804b670', '0x804b9d0')]
+-------------------

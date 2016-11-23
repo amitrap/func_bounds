@@ -1,0 +1,268 @@
+FUNCTIONS BOUNDS - 
+Func Name: '(indirectstring,offset:0x1121):_getopt_long_only_r'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804ce38', '0x804ce60')]
+-------------------
+Func Name: '(indirectstring,offset:0x118a):c_isalnum'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804cfe0', '0x804cffe')]
+-------------------
+Func Name: '(indirectstring,offset:0xba7):quotearg_free'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804b544', '0x804b5b6')]
+-------------------
+Func Name: '(indirectstring,offset:0x520):main'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804a1cc', '0x804a414')]
+-------------------
+Func Name: '(indirectstring,offset:0x120d):c_toupper'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804d110', '0x804d122')]
+-------------------
+Func Name: '(indirectstring,offset:0x119e):c_isblank'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804d012', '0x804d028')]
+-------------------
+Func Name: '(indirectstring,offset:0x73e):close_stdout_set_ignore_EPIPE'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804a4c2', '0x804a4ce')]
+-------------------
+Func Name: '(indirectstring,offset:0x815):imaxtostr'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804a638', '0x804a6ce')]
+-------------------
+Func Name: '(indirectstring,offset:0x9f3):set_custom_quoting'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804aaa8', '0x804aae0')]
+-------------------
+Func Name: '(indirectstring,offset:0xe01):version_etc'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804bd18', '0x804bd44')]
+-------------------
+Func Name: '(indirectstring,offset:0x100e):_getopt_internal_r'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804c1ec', '0x804cd3c')]
+-------------------
+Func Name: '(indirectstring,offset:0xe9c):x2realloc'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804be0e', '0x804be48')]
+-------------------
+Func Name: '(indirectstring,offset:0xc13):quotearg_n_style'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804b788', '0x804b7c6')]
+-------------------
+Func Name: '(indirectstring,offset:0x11c6):c_isgraph'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804d060', '0x804d070')]
+-------------------
+Func Name: '(indirectstring,offset:0x763):close_stdout'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804a4ce', '0x804a57c')]
+-------------------
+Func Name: '(indirectstring,offset:0xb7d):quotearg_alloc'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804b45e', '0x804b47c')]
+-------------------
+Func Name: '(indirectstring,offset:0xc5b):quotearg_char_mem'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804b83a', '0x804b890')]
+-------------------
+Func Name: '(indirectstring,offset:0x11bc):c_islower'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804d050', '0x804d060')]
+-------------------
+Func Name: '(indirectstring,offset:0x9e1):set_quoting_flags'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804aa8e', '0x804aaa8')]
+-------------------
+Func Name: '(indirectstring,offset:0xbe3):quotearg_n'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804b720', '0x804b740')]
+-------------------
+Func Name: '(indirectstring,offset:0x11e4):c_isspace'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804d0a6', '0x804d0d0')]
+-------------------
+Func Name: '(indirectstring,offset:0xcd5):quotearg_custom_mem'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804b96e', '0x804b994')]
+-------------------
+Func Name: '(indirectstring,offset:0x98a):quote'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804b9e2', '0x804b9f4')]
+-------------------
+Func Name: '(indirectstring,offset:0xc39):quotearg_style'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804b806', '0x804b81c')]
+-------------------
+Func Name: '(indirectstring,offset:0xeae):xcalloc'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804be68', '0x804be88')]
+-------------------
+Func Name: '(indirectstring,offset:0xe8b):xmalloc'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804bdb0', '0x804bdd4')]
+-------------------
+Func Name: '(indirectstring,offset:0xcff):quote_n'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804b9ca', '0x804b9e2')]
+-------------------
+Func Name: '(indirectstring,offset:0xeb6):xmemdup'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804be88', '0x804beae')]
+-------------------
+Func Name: '(indirectstring,offset:0xdc9):version_etc_va'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804bcbe', '0x804bd18')]
+-------------------
+Func Name: '(indirectstring,offset:0xe0d):emit_bug_reporting_address'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804bd44', '0x804bdae')]
+-------------------
+Func Name: '(indirectstring,offset:0xcc5):quotearg_custom'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804b950', '0x804b96e')]
+-------------------
+Func Name: '(indirectstring,offset:0xed7):xalloc_die'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804bf98', '0x804bfc6')]
+-------------------
+Func Name: '(indirectstring,offset:0xe93):xrealloc'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804bdd4', '0x804be0e')]
+-------------------
+Func Name: '(indirectstring,offset:0x126d):locale_charset'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804d184', '0x804d464')]
+-------------------
+Func Name: '(indirectstring,offset:0x10a9):rpl_getopt_internal'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804cd3c', '0x804cda2')]
+-------------------
+Func Name: '(indirectstring,offset:0x51a):usage'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8049ff2', '0x804a1cc')]
+-------------------
+Func Name: '(indirectstring,offset:0xc9d):quotearg_n_custom'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804b8d6', '0x804b900')]
+-------------------
+Func Name: '(indirectstring,offset:0x11ee):c_isupper'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804d0d0', '0x804d0e0')]
+-------------------
+Func Name: '(indirectstring,offset:0xcf5):quote_mem'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804b9b4', '0x804b9ca')]
+-------------------
+Func Name: '(indirectstring,offset:0xe6b):xnrealloc'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804bef8', '0x804bf26')]
+-------------------
+Func Name: '(indirectstring,offset:0x10bd):rpl_getopt'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804cda2', '0x804cdc8')]
+-------------------
+Func Name: '(indirectstring,offset:0xf13):rpl_fflush'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804c04c', '0x804c088')]
+-------------------
+Func Name: '(indirectstring,offset:0x642):canon_host'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804a414', '0x804a42a')]
+-------------------
+Func Name: '(indirectstring,offset:0xb6d):quotearg_buffer'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804b410', '0x804b45e')]
+-------------------
+Func Name: '(indirectstring,offset:0x6f6):ch_strerror'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804a4a2', '0x804a4b6')]
+-------------------
+Func Name: '(indirectstring,offset:0xe62):xnmalloc'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804becc', '0x804bef6')]
+-------------------
+Func Name: '(indirectstring,offset:0x837):set_program_name'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804a6d0', '0x804a758')]
+-------------------
+Func Name: '(indirectstring,offset:0x990):clone_quoting_options'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804a9f4', '0x804aa22')]
+-------------------
+Func Name: '(indirectstring,offset:0x9b8):set_quoting_style'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804aa34', '0x804aa4a')]
+-------------------
+Func Name: '(indirectstring,offset:0xebe):xstrdup'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804beae', '0x804becc')]
+-------------------
+Func Name: '(indirectstring,offset:0x11a8):c_iscntrl'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804d028', '0x804d040')]
+-------------------
+Func Name: '(indirectstring,offset:0x11d0):c_isprint'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804d070', '0x804d080')]
+-------------------
+Func Name: '(indirectstring,offset:0xce9):quote_n_mem'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804b994', '0x804b9b4')]
+-------------------
+Func Name: '(indirectstring,offset:0x1194):c_isalpha'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804cffe', '0x804d012')]
+-------------------
+Func Name: '(indirectstring,offset:0x9ca):set_char_quoting'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804aa4a', '0x804aa8e')]
+-------------------
+Func Name: '(indirectstring,offset:0xf2b):rpl_fseeko'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804c088', '0x804c10c')]
+-------------------
+Func Name: '(indirectstring,offset:0x64d):canon_host_r'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804a42a', '0x804a4a2')]
+-------------------
+Func Name: '(indirectstring,offset:0xbfd):quotearg'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804b760', '0x804b772')]
+-------------------
+Func Name: '(indirectstring,offset:0x11f8):c_isxdigit'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804d0e0', '0x804d0fe')]
+-------------------
+Func Name: '(indirectstring,offset:0xc48):quotearg_style_mem'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804b81c', '0x804b83a')]
+-------------------
+Func Name: '(indirectstring,offset:0x79d):last_component'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804a57c', '0x804a5c8')]
+-------------------
+Func Name: '(indirectstring,offset:0xc7b):quotearg_colon'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804b8aa', '0x804b8be')]
+-------------------
+Func Name: '(indirectstring,offset:0xea6):xzalloc'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804be48', '0x804be68')]
+-------------------
+Func Name: '(indirectstring,offset:0xeef):rpl_fclose'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804bfc8', '0x804c04c')]
+-------------------
+Func Name: '(indirectstring,offset:0x11b2):c_isdigit'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804d040', '0x804d050')]
+-------------------
+Func Name: '(indirectstring,offset:0xc24):quotearg_n_style_mem'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804b7c6', '0x804b806')]
+-------------------
+Func Name: '(indirectstring,offset:0x1180):c_isascii'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804cfd4', '0x804cfe0')]
+-------------------
+Func Name: '(indirectstring,offset:0x10fd):_getopt_long_r'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804cdec', '0x804ce14')]
+-------------------
+Func Name: '(indirectstring,offset:0x1203):c_tolower'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804d0fe', '0x804d110')]
+-------------------
+Func Name: '(indirectstring,offset:0xc8a):quotearg_colon_mem'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804b8be', '0x804b8d6')]
+-------------------
+Func Name: '(indirectstring,offset:0x7b6):base_len'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804a5c8', '0x804a5ee')]
+-------------------
+Func Name: '(indirectstring,offset:0xe75):x2nrealloc'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804bf28', '0x804bf8a')]
+-------------------
+Func Name: '(indirectstring,offset:0x10d6):rpl_getopt_long'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804cdc8', '0x804cdec')]
+-------------------
+Func Name: '(indirectstring,offset:0xbee):quotearg_n_mem'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804b740', '0x804b760')]
+-------------------
+Func Name: '(indirectstring,offset:0x9a6):get_quoting_style'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804aa22', '0x804aa34')]
+-------------------
+Func Name: '(indirectstring,offset:0xcaf):quotearg_n_custom_mem'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804b900', '0x804b950')]
+-------------------
+Func Name: '(indirectstring,offset:0xe80):xcharalloc'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804bf8c', '0x804bf96')]
+-------------------
+Func Name: '(indirectstring,offset:0x122a):close_stream'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804d124', '0x804d184')]
+-------------------
+Func Name: '(indirectstring,offset:0xd83):version_etc_arn'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804b9f4', '0x804bc86')]
+-------------------
+Func Name: '(indirectstring,offset:0x71e):close_stdout_set_file_name'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804a4b8', '0x804a4c2')]
+-------------------
+Func Name: '(indirectstring,offset:0xb8c):quotearg_alloc_mem'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804b47c', '0x804b544')]
+-------------------
+Func Name: '(indirectstring,offset:0x1144):extract_trimmed_name'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804ce60', '0x804cea8')]
+-------------------
+Func Name: '(indirectstring,offset:0x7eb):hard_locale'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804a5f0', '0x804a636')]
+-------------------
+Func Name: '(indirectstring,offset:0xdba):version_etc_ar'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804bc86', '0x804bcbe')]
+-------------------
+Func Name: '(indirectstring,offset:0xc06):quotearg_mem'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804b772', '0x804b788')]
+-------------------
+Func Name: '(indirectstring,offset:0x1159):read_utmp'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804cea8', '0x804cfd2')]
+-------------------
+Func Name: '(indirectstring,offset:0x11da):c_ispunct'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804d080', '0x804d0a6')]
+-------------------
+Func Name: '(indirectstring,offset:0x110c):rpl_getopt_long_only'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804ce14', '0x804ce38')]
+-------------------
+Func Name: '(indirectstring,offset:0xc6d):quotearg_char'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804b890', '0x804b8aa')]
+-------------------

@@ -1,0 +1,82 @@
+FUNCTIONS BOUNDS - 
+Func Name: '(indirectstring,offset:0x43a):yylex'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80497e8', '0x804a16a')]
+-------------------
+Func Name: '(indirectstring,offset:0x6f0):yyget_out'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804a768', '0x804a76e')]
+-------------------
+Func Name: '(indirectstring,offset:0x1b8):yyalloc'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804a81a', '0x804a828')]
+-------------------
+Func Name: '(indirectstring,offset:0x693):yy_scan_string'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804a6b0', '0x804a6ce')]
+-------------------
+Func Name: '(indirectstring,offset:0x5e8):yy_create_buffer'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804a330', '0x804a392')]
+-------------------
+Func Name: '(indirectstring,offset:0x9d):yyparse'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8048b3c', '0x804974c')]
+-------------------
+Func Name: '(indirectstring,offset:0x6e7):yyget_in'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804a762', '0x804a768')]
+-------------------
+Func Name: '(indirectstring,offset:0x620):yy_flush_buffer'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804a45e', '0x804a4ac')]
+-------------------
+Func Name: '(indirectstring,offset:0x1d0):main'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804974c', '0x80497cc')]
+-------------------
+Func Name: '(indirectstring,offset:0x74b):yyget_debug'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804a798', '0x804a79e')]
+-------------------
+Func Name: '(indirectstring,offset:0x729):yyset_in'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804a784', '0x804a78e')]
+-------------------
+Func Name: '(indirectstring,offset:0x782):yyfree'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804a83e', '0x804a844')]
+-------------------
+Func Name: '(indirectstring,offset:0x5f9):yy_delete_buffer'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804a392', '0x804a3e4')]
+-------------------
+Func Name: '(indirectstring,offset:0x644):yypop_buffer_state'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804a526', '0x804a598')]
+-------------------
+Func Name: '(indirectstring,offset:0x757):yyset_debug'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804a79e', '0x804a7a8')]
+-------------------
+Func Name: '(indirectstring,offset:0x76a):yylex_destroy'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804a7a8', '0x804a81a')]
+-------------------
+Func Name: '(indirectstring,offset:0x684):yy_scan_buffer'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804a638', '0x804a6b0')]
+-------------------
+Func Name: '(indirectstring,offset:0x6da):yyget_lineno'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804a75c', '0x804a762')]
+-------------------
+Func Name: '(indirectstring,offset:0x710):yyset_lineno'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804a77a', '0x804a784')]
+-------------------
+Func Name: '(indirectstring,offset:0x630):yypush_buffer_state'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804a4ac', '0x804a526')]
+-------------------
+Func Name: '(indirectstring,offset:0x705):yyget_text'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804a774', '0x804a77a')]
+-------------------
+Func Name: '(indirectstring,offset:0x6fa):yyget_leng'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804a76e', '0x804a774')]
+-------------------
+Func Name: '(indirectstring,offset:0x4e9):yy_switch_to_buffer'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804a27c', '0x804a2f2')]
+-------------------
+Func Name: '(indirectstring,offset:0x4df):yyrestart'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804a212', '0x804a27c')]
+-------------------
+Func Name: '(indirectstring,offset:0x739):yyset_out'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804a78e', '0x804a798')]
+-------------------
+Func Name: '(indirectstring,offset:0x778):yyrealloc'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804a828', '0x804a83e')]
+-------------------
+Func Name: '(indirectstring,offset:0x6a8):yy_scan_bytes'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804a6ce', '0x804a740')]
+-------------------

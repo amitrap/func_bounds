@@ -1,0 +1,121 @@
+FUNCTIONS BOUNDS - 
+Func Name: '(indirectstring,offset:0xc1e):consume_whitespace'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804b540', '0x804b568')]
+-------------------
+Func Name: '(indirectstring,offset:0xd63):dos_lbasename'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804bc56', '0x804bc93')]
+-------------------
+Func Name: '(indirectstring,offset:0xb9d):xrealloc'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804bddc', '0x804be19')]
+-------------------
+Func Name: '(indirectstring,offset:0x299):main'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8049d75', '0x804a22a')]
+-------------------
+Func Name: '(indirectstring,offset:0xde3):xmalloc_set_program_name'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804bcc4', '0x804bcee')]
+-------------------
+Func Name: '(indirectstring,offset:0x442):elf_osabi'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8048f77', '0x8048fde')]
+-------------------
+Func Name: '(indirectstring,offset:0xaa1):byte_get_signed'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804ab78', '0x804abf0')]
+-------------------
+Func Name: '(indirectstring,offset:0x9e9):warn'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804a891', '0x804a8fc')]
+-------------------
+Func Name: '(indirectstring,offset:0xa84):byte_get_64'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804abf0', '0x804ac75')]
+-------------------
+Func Name: '(indirectstring,offset:0x4dc):adjust_relative_path'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804ac75', '0x804ad86')]
+-------------------
+Func Name: '(indirectstring,offset:0x9c1):byte_put_little_endian'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804a8fc', '0x804a996')]
+-------------------
+Func Name: '(indirectstring,offset:0xa21):get_archive_member_name_at'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804b148', '0x804b260')]
+-------------------
+Func Name: '(indirectstring,offset:0x96f):byte_put_big_endian'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804a996', '0x804aa37')]
+-------------------
+Func Name: '(indirectstring,offset:0x7c3):make_qualified_name'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804b3eb', '0x804b540')]
+-------------------
+Func Name: '(indirectstring,offset:0xae1):xmalloc'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804bd69', '0x804bd90')]
+-------------------
+Func Name: '(indirectstring,offset:0xd46):unix_lbasename'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804bc34', '0x804bc56')]
+-------------------
+Func Name: '(indirectstring,offset:0xd67):lbasename'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804bc93', '0x804bca6')]
+-------------------
+Func Name: '(indirectstring,offset:0x570):elf_machine'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8048e10', '0x8048ed7')]
+-------------------
+Func Name: '(indirectstring,offset:0xbf7):xexit'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804bca8', '0x804bcc2')]
+-------------------
+Func Name: '(indirectstring,offset:0x940):setup_nested_archive'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804b0c6', '0x804b148')]
+-------------------
+Func Name: '(indirectstring,offset:0xc04):dupargv'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804b59c', '0x804b687')]
+-------------------
+Func Name: '(indirectstring,offset:0x2ea):print_version'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804a22c', '0x804a29f')]
+-------------------
+Func Name: '(indirectstring,offset:0xdfc):xcalloc'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804bd90', '0x804bddc')]
+-------------------
+Func Name: '(indirectstring,offset:0xa60):byte_get_big_endian'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804a30b', '0x804a44c')]
+-------------------
+Func Name: '(indirectstring,offset:0x37d):process_archive'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804990b', '0x8049d75')]
+-------------------
+Func Name: '(indirectstring,offset:0x768):release_archive'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804b07e', '0x804b0c6')]
+-------------------
+Func Name: '(indirectstring,offset:0x3d7):elf_type'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8048ed7', '0x8048f77')]
+-------------------
+Func Name: '(indirectstring,offset:0xc55):writeargv'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804b870', '0x804b93b')]
+-------------------
+Func Name: '(indirectstring,offset:0xbe6):buildargv'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804b687', '0x804b870')]
+-------------------
+Func Name: '(indirectstring,offset:0x8de):get_archive_member_name'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804b260', '0x804b3eb')]
+-------------------
+Func Name: '(indirectstring,offset:0x7fa):setup_archive'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804ad86', '0x804b07e')]
+-------------------
+Func Name: '(indirectstring,offset:0xbdd):freeargv'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804b568', '0x804b59c')]
+-------------------
+Func Name: '(indirectstring,offset:0xaf2):byte_get_little_endian'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804aa37', '0x804ab78')]
+-------------------
+Func Name: '(indirectstring,offset:0x1b2):expandargv'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804b93b', '0x804bc07')]
+-------------------
+Func Name: '(indirectstring,offset:0xabf):process_archive_index_and_symbols'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804a44c', '0x804a891')]
+-------------------
+Func Name: '(indirectstring,offset:0xb64):countargv'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804bc07', '0x804bc31')]
+-------------------
+Func Name: '(indirectstring,offset:0x90a):process_object'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80490d8', '0x804990b')]
+-------------------
+Func Name: '(indirectstring,offset:0xe2e):xmalloc_failed'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804bcee', '0x804bd69')]
+-------------------
+Func Name: '(indirectstring,offset:0xbf1):error'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804a2a0', '0x804a30b')]
+-------------------
+Func Name: '(indirectstring,offset:0x3af):usage'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8048fde', '0x80490d8')]
+-------------------

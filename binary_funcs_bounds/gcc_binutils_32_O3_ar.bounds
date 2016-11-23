@@ -1,0 +1,3148 @@
+FUNCTIONS BOUNDS - 
+Func Name: '(indirectstring,offset:0x1fb5b):aout_32_canonicalize_symtab'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80c4ce0', '0x80c4d3e')]
+-------------------
+Func Name: '(indirectstring,offset:0x1eadd):bfd_elf32_swap_reloc_out'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80badb0', '0x80bae0d')]
+-------------------
+Func Name: '(indirectstring,offset:0x1516d):ihex_set_arch_mach'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x806d1c0', '0x806d1f7')]
+-------------------
+Func Name: '(indirectstring,offset:0x20654):styp_to_sec_flags'
+Func bounds (low_pc, high_pc/len) (2 chunks): [('0x80c9f40', '0x80ca780'), ('0x80dbdb0', '0x80dc5f0')]
+-------------------
+Func Name: '(indirectstring,offset:0x1f2b0):i386linux_bfd_final_link'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80be720', '0x80be750')]
+-------------------
+Func Name: '(indirectstring,offset:0x1f1b3):linux_tally_symbols'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80bfab0', '0x80bfe05')]
+-------------------
+Func Name: '(indirectstring,offset:0x17f8f):simple_dummy_einfo'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8074200', '0x8074202')]
+-------------------
+Func Name: '(indirectstring,offset:0x20448):coff_read_word'
+Func bounds (low_pc, high_pc/len) (2 chunks): [('0x804a4a6', '0x804a507'), ('0x804a507', '0x804a568')]
+-------------------
+Func Name: '(indirectstring,offset:0x6cc0):bfd_check_format'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x805e960', '0x805e983')]
+-------------------
+Func Name: '(indirectstring,offset:0x22c08):d_expr_primary'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8103690', '0x810384e')]
+-------------------
+Func Name: '(indirectstring,offset:0x1ce5d):elf_gc_allocate_got_offsets'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8093b20', '0x8093bb6')]
+-------------------
+Func Name: '(indirectstring,offset:0x1ae90):bfd_elf_mkcorefile'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8083300', '0x808330c')]
+-------------------
+Func Name: '(indirectstring,offset:0x1a0cf):_bfd_elf_validate_reloc'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x808ee30', '0x808efe5')]
+-------------------
+Func Name: '(indirectstring,offset:0x120a5):_bfd_coff_section_already_linked'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x805e330', '0x805e4c1')]
+-------------------
+Func Name: '(indirectstring,offset:0x24177):htab_create_alloc_ex'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8105fe0', '0x81060ef')]
+-------------------
+Func Name: '(indirectstring,offset:0x14a7c):default_indirect_link_order'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8065b10', '0x806605f')]
+-------------------
+Func Name: '(indirectstring,offset:0x196d8):elf_x86_64_reloc_type_lookup'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8078e10', '0x8078ef6')]
+-------------------
+Func Name: '(indirectstring,offset:0x1319b):_bfd_norelocs_get_reloc_upper_bound'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x805eb00', '0x805eb06')]
+-------------------
+Func Name: '(indirectstring,offset:0x13301):_bfd_nocore_core_file_failing_signal'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x805eb60', '0x805eb75')]
+-------------------
+Func Name: '(indirectstring,offset:0x1375d):opncls_bflush'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x805fdf0', '0x805fdf3')]
+-------------------
+Func Name: '(indirectstring,offset:0x145d8):_bfd_generic_link_output_symbols'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80677e0', '0x8067e02')]
+-------------------
+Func Name: '(indirectstring,offset:0x18217):bfd_is_section_compressed'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8074a60', '0x8074acd')]
+-------------------
+Func Name: '(indirectstring,offset:0x1ef47):bfd_elf32_write_out_phdrs'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80bc9a0', '0x80bca12')]
+-------------------
+Func Name: '(indirectstring,offset:0x1abd7):_bfd_elf_write_object_contents'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8089aa0', '0x8089c86')]
+-------------------
+Func Name: '(indirectstring,offset:0x1f267):linux_finish_dynamic_link'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80be2e0', '0x80be71e')]
+-------------------
+Func Name: '(indirectstring,offset:0x1471d):_bfd_generic_copy_link_hash_symbol_type'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8066300', '0x8066302')]
+-------------------
+Func Name: '(indirectstring,offset:0x14fb7):tekhex_canonicalize_symtab'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x806b6d0', '0x806b707')]
+-------------------
+Func Name: '(indirectstring,offset:0x1ea51):elf_vxworks_finish_dynamic_entry'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80bab20', '0x80bac0a')]
+-------------------
+Func Name: '(indirectstring,offset:0x1daf3):elf_strtab_hash_newfunc'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80ad2c0', '0x80ad32b')]
+-------------------
+Func Name: '(indirectstring,offset:0x21104):_bfd_pei_only_swap_filehdr_out'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80d01a0', '0x80d097b')]
+-------------------
+Func Name: '(indirectstring,offset:0x217d5):sort_xdata_arr'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80d9f60', '0x80d9fd9')]
+-------------------
+Func Name: '(indirectstring,offset:0x10ee1):bfd_set_assert_handler'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8057a50', '0x8057a60')]
+-------------------
+Func Name: '(indirectstring,offset:0x13469):bfd_getl_signed_64'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x805f460', '0x805f4f4')]
+-------------------
+Func Name: '(indirectstring,offset:0x11d66):memory_bclose'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8058d10', '0x8058d51')]
+-------------------
+Func Name: '(indirectstring,offset:0x11f1a):bfd_open_file'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8059a40', '0x8059be0')]
+-------------------
+Func Name: '(indirectstring,offset:0xe558):bfd_generic_stat_arch_elt'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80549b0', '0x8054aaa')]
+-------------------
+Func Name: '(indirectstring,offset:0xa522):bfd_openw'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8060590', '0x806060f')]
+-------------------
+Func Name: '(indirectstring,offset:0x1abba):_bfd_elf_canonicalize_symtab'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x808ce10', '0x808ce49')]
+-------------------
+Func Name: '(indirectstring,offset:0x1cb6e):_bfd_elf_discard_section_eh_frame'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80af510', '0x80afcbb')]
+-------------------
+Func Name: '(indirectstring,offset:0x1b226):_bfd_elf_swap_verdaux_out'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8082e50', '0x8082eaf')]
+-------------------
+Func Name: '(indirectstring,offset:0x15200):ihex_sizeof_headers'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x806d160', '0x806d163')]
+-------------------
+Func Name: '(indirectstring,offset:0x1a3e6):_bfd_elf_swap_versym_in'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8083130', '0x808314f')]
+-------------------
+Func Name: '(indirectstring,offset:0x1fe10):aout_32_make_empty_symbol'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80c4190', '0x80c41c4')]
+-------------------
+Func Name: '(indirectstring,offset:0x23e3d):d_template_param'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80f9210', '0x80f92d4')]
+-------------------
+Func Name: '(indirectstring,offset:0x1b8aa):_bfd_elf_strtab_add'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80ad410', '0x80ad575')]
+-------------------
+Func Name: '(indirectstring,offset:0x1d693):_bfd_elf_init_1_index_section'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80a3d60', '0x80a3e4c')]
+-------------------
+Func Name: '(indirectstring,offset:0x21558):_bfd_coff_link_input_bfd'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80d58d0', '0x80d809d')]
+-------------------
+Func Name: '(indirectstring,offset:0x14ee1):tekhex_set_arch_mach'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x806b770', '0x806b775')]
+-------------------
+Func Name: '(indirectstring,offset:0x1de31):cie_eq'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80adcc0', '0x80addd9')]
+-------------------
+Func Name: '(indirectstring,offset:0x1314d):bfd_getl16'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x805f0d0', '0x805f0e6')]
+-------------------
+Func Name: '(indirectstring,offset:0x1c52d):elf_link_adjust_relocs'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8049f4b', '0x804a138')]
+-------------------
+Func Name: '(indirectstring,offset:0xe27a):bfd_assert'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8057a90', '0x8057ad8')]
+-------------------
+Func Name: '(indirectstring,offset:0x1200e):coff_canonicalize_symtab'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x805b100', '0x805b15e')]
+-------------------
+Func Name: '(indirectstring,offset:0x1af54):_bfd_elf_strtab_emit'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80ad890', '0x80ada0b')]
+-------------------
+Func Name: '(indirectstring,offset:0x18709):elf_x86_64_size_dynamic_sections'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8076ad0', '0x807766d')]
+-------------------
+Func Name: '(indirectstring,offset:0x21996):_bfd_pex64i_swap_aux_out'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80e1900', '0x80e1c73')]
+-------------------
+Func Name: '(indirectstring,offset:0x14591):_bfd_generic_link_add_archive_symbols'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8066310', '0x8066622')]
+-------------------
+Func Name: '(indirectstring,offset:0x11335):in_reloc_p'
+Func bounds (low_pc, high_pc/len) (2 chunks): [('0x80c8770', '0x80c878e'), ('0x80d9fe0', '0x80d9ffe')]
+-------------------
+Func Name: '(indirectstring,offset:0x12f3f):null_error_handler'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x805a300', '0x805a302')]
+-------------------
+Func Name: '(indirectstring,offset:0x11e1a):cache_bflush'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8059f30', '0x8059f88')]
+-------------------
+Func Name: '(indirectstring,offset:0x1d576):_bfd_elf_init_2_index_sections'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80a3e50', '0x80a407f')]
+-------------------
+Func Name: '(indirectstring,offset:0x1dbb1):_bfd_elf_encode_eh_address'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80b16f0', '0x80b1732')]
+-------------------
+Func Name: '(indirectstring,offset:0x1c840):_bfd_elf_discard_section_eh_frame_hdr'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80afcc0', '0x80afd4f')]
+-------------------
+Func Name: '(indirectstring,offset:0x218b1):pex64_bfd_print_pdata'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80df920', '0x80e0bb4')]
+-------------------
+Func Name: '(indirectstring,offset:0xeb75):bfd_printable_name'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8057210', '0x805721e')]
+-------------------
+Func Name: '(indirectstring,offset:0x141bc):_bfd_stringtab_emit'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80650d0', '0x80651cd')]
+-------------------
+Func Name: '(indirectstring,offset:0x2175a):coff_amd64_is_local_label_name'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80db9e0', '0x80db9f6')]
+-------------------
+Func Name: '(indirectstring,offset:0x599f):bfd_check_format_matches'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x805e4d0', '0x805e955')]
+-------------------
+Func Name: '(indirectstring,offset:0x1f5c5):linux_link_hash_table_create'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80be750', '0x80be7d4')]
+-------------------
+Func Name: '(indirectstring,offset:0xe2d9):hash_file_ptr'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8051e60', '0x8051e67')]
+-------------------
+Func Name: '(indirectstring,offset:0x13b23):_bfd_generic_new_section_hook'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8061cb0', '0x8061d0f')]
+-------------------
+Func Name: '(indirectstring,offset:0x138e2):opncls_bwrite'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x805fdb0', '0x805fdbb')]
+-------------------
+Func Name: '(indirectstring,offset:0x1bfe2):_bfd_elf_gc_keep'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80aa1d0', '0x80aa246')]
+-------------------
+Func Name: '(indirectstring,offset:0x22277):delete_non_B_K_work_stuff'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80ec9a0', '0x80eca92')]
+-------------------
+Func Name: '(indirectstring,offset:0x1fbb9):aout_link_input_section'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80c0ad0', '0x80c2332')]
+-------------------
+Func Name: '(indirectstring,offset:0x57):ar_addlib'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804ee20', '0x804efab')]
+-------------------
+Func Name: '(indirectstring,offset:0x80bd):unlink_if_ordinary'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8107570', '0x81075c9')]
+-------------------
+Func Name: '(indirectstring,offset:0x1f764):aout_32_link_hash_newfunc'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80c06d0', '0x80c072b')]
+-------------------
+Func Name: '(indirectstring,offset:0x51d):yyparse'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804b960', '0x804bf83')]
+-------------------
+Func Name: '(indirectstring,offset:0x1d534):_bfd_elf_merge_sections'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80a5260', '0x80a5333')]
+-------------------
+Func Name: '(indirectstring,offset:0x1e34b):elf_i386_readonly_dynrelocs'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80b2600', '0x80b26ae')]
+-------------------
+Func Name: '(indirectstring,offset:0x20151):_bfd_free_cached_info'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8060090', '0x80600f8')]
+-------------------
+Func Name: '(indirectstring,offset:0x1824f):verilog_write_object_contents'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8074f20', '0x8075143')]
+-------------------
+Func Name: '(indirectstring,offset:0x28):prompt'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804ec00', '0x804ec30')]
+-------------------
+Func Name: '(indirectstring,offset:0x1f874):aout_32_swap_exec_header_in'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80c2810', '0x80c2918')]
+-------------------
+Func Name: '(indirectstring,offset:0x14b5a):read_section'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x806ea60', '0x806ec99')]
+-------------------
+Func Name: '(indirectstring,offset:0xa8c6):bfd_seek'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80593f0', '0x80595c9')]
+-------------------
+Func Name: '(indirectstring,offset:0x11cf3):bfd_realloc_or_free'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x805ee40', '0x805eec2')]
+-------------------
+Func Name: '(indirectstring,offset:0x212f1):coff_link_check_archive_element'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80d5360', '0x80d55e0')]
+-------------------
+Func Name: '(indirectstring,offset:0x20bd3):sort_by_secaddr'
+Func bounds (low_pc, high_pc/len) (2 chunks): [('0x80c89c0', '0x80c8a2f'), ('0x80da210', '0x80da27f')]
+-------------------
+Func Name: '(indirectstring,offset:0x1b9ef):_bfd_elf_strtab_init'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80ad330', '0x80ad3d1')]
+-------------------
+Func Name: '(indirectstring,offset:0x12a6a):coff_bad_format_hook'
+Func bounds (low_pc, high_pc/len) (2 chunks): [('0x80c8970', '0x80c89a2'), ('0x80da1e0', '0x80da1f4')]
+-------------------
+Func Name: '(indirectstring,offset:0x11e72):cache_bclose'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80596e0', '0x8059783')]
+-------------------
+Func Name: '(indirectstring,offset:0x13bb3):bfd_make_section'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8062490', '0x80624b3')]
+-------------------
+Func Name: '(indirectstring,offset:0xdbc7):ar_emul_append'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80501f0', '0x8050229')]
+-------------------
+Func Name: '(indirectstring,offset:0x1fa23):aout_32_get_lineno'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80c5ac0', '0x80c5ac3')]
+-------------------
+Func Name: '(indirectstring,offset:0x1e5f4):elf_i386_finish_local_dynamic_symbol'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80b3850', '0x80b387c')]
+-------------------
+Func Name: '(indirectstring,offset:0x1f234):linux_add_one_symbol'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80bf770', '0x80bfaa1')]
+-------------------
+Func Name: '(indirectstring,offset:0x13d64):_bfd_generic_make_empty_symbol'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8062ca0', '0x8062ccb')]
+-------------------
+Func Name: '(indirectstring,offset:0x1af69):_bfd_elf_maybe_function_sym'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8093830', '0x809389b')]
+-------------------
+Func Name: '(indirectstring,offset:0x1b70e):_bfd_elf_make_section_from_phdr'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8084390', '0x8084738')]
+-------------------
+Func Name: '(indirectstring,offset:0x12d14):coff_find_inliner_info'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x805e150', '0x805e188')]
+-------------------
+Func Name: '(indirectstring,offset:0xe0be):htab_find_slot'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8106990', '0x81069cc')]
+-------------------
+Func Name: '(indirectstring,offset:0x21ca1):bfd_arch_i386_long_nop_fill'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80e7890', '0x80e795c')]
+-------------------
+Func Name: '(indirectstring,offset:0x1220d):coff_get_normalized_symtab'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x805c9c0', '0x805d2af')]
+-------------------
+Func Name: '(indirectstring,offset:0x1c501):_bfd_elf_copy_link_hash_symbol_type'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80aba20', '0x80aba37')]
+-------------------
+Func Name: '(indirectstring,offset:0x12914):coff_count_linenumbers'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x805b4a0', '0x805b621')]
+-------------------
+Func Name: '(indirectstring,offset:0x16d6b):_bfd_dwarf2_slurp_debug_info'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8073850', '0x8073dc8')]
+-------------------
+Func Name: '(indirectstring,offset:0x1e457):elf_i386_link_hash_table_free'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80b4e10', '0x80b4e49')]
+-------------------
+Func Name: '(indirectstring,offset:0x1cef9):elf_link_output_extsym'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80986c0', '0x809951d')]
+-------------------
+Func Name: '(indirectstring,offset:0x131e5):_bfd_generic_get_section_contents_in_window'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x805f950', '0x805f96f')]
+-------------------
+Func Name: '(indirectstring,offset:0x134bc):bfd_0l'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x805eac0', '0x805eac3')]
+-------------------
+Func Name: '(indirectstring,offset:0x23cb3):d_source_name'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80f9090', '0x80f920a')]
+-------------------
+Func Name: '(indirectstring,offset:0x24312):lbasename'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8106f40', '0x8106f68')]
+-------------------
+Func Name: '(indirectstring,offset:0x1a96e):_bfd_elf_find_inliner_info'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x808ec20', '0x808ec5b')]
+-------------------
+Func Name: '(indirectstring,offset:0xc4c):bfd_set_archive_head'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8052930', '0x8052944')]
+-------------------
+Func Name: '(indirectstring,offset:0x19390):_bfd_elfcore_make_pseudosection'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x808f060', '0x808f211')]
+-------------------
+Func Name: '(indirectstring,offset:0x135f8):bfd_create_gnu_debuglink_section'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8061930', '0x80619f4')]
+-------------------
+Func Name: '(indirectstring,offset:0x116d4):xstrerror'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8107870', '0x81078b2')]
+-------------------
+Func Name: '(indirectstring,offset:0x21709):_bfd_pex64_print_private_bfd_data_common'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80e4700', '0x80e6ea7')]
+-------------------
+Func Name: '(indirectstring,offset:0x16e53):_bfd_dwarf2_find_line'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8073f00', '0x8073fc6')]
+-------------------
+Func Name: '(indirectstring,offset:0x1bc78):_bfd_elf_swap_vernaux_in'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8082ff0', '0x8083064')]
+-------------------
+Func Name: '(indirectstring,offset:0x18037):simple_save_output_info'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8074210', '0x8074253')]
+-------------------
+Func Name: '(indirectstring,offset:0x7ce):yyget_out'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804d540', '0x804d546')]
+-------------------
+Func Name: '(indirectstring,offset:0x20ed6):_bfd_pei_swap_aux_in'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80ce400', '0x80ce63e')]
+-------------------
+Func Name: '(indirectstring,offset:0x41f):ar_replace'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804f2c0', '0x804f502')]
+-------------------
+Func Name: '(indirectstring,offset:0x11c83):memory_bwrite'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8058ec0', '0x805901a')]
+-------------------
+Func Name: '(indirectstring,offset:0xe7aa):_bfd_abort'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8057ae0', '0x8057ba4')]
+-------------------
+Func Name: '(indirectstring,offset:0x1aea3):_bfd_elf_set_section_contents'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x808ed50', '0x808ee0c')]
+-------------------
+Func Name: '(indirectstring,offset:0x1a2d1):bfd_elf64_swap_phdr_in'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x807f990', '0x807fa6d')]
+-------------------
+Func Name: '(indirectstring,offset:0x1cd8c):compute_bucket_count'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8094a40', '0x8094ccc')]
+-------------------
+Func Name: '(indirectstring,offset:0x1a7f2):_bfd_elf_get_lineno'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x808e8b0', '0x808e8cf')]
+-------------------
+Func Name: '(indirectstring,offset:0x1d1b1):_bfd_elf_default_action_discarded'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80a6050', '0x80a60bd')]
+-------------------
+Func Name: '(indirectstring,offset:0x1de66):_bfd_elf_can_make_relative'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80b16e0', '0x80b16e6')]
+-------------------
+Func Name: '(indirectstring,offset:0x1d91f):bfd_elf_add_obj_attr_int_string'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80ac550', '0x80ac6aa')]
+-------------------
+Func Name: '(indirectstring,offset:0x1cd71):bfd_elf_obj_attr_size'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80abe10', '0x80abe66')]
+-------------------
+Func Name: '(indirectstring,offset:0x207cd):bfd_coff_set_long_section_names_allowed'
+Func bounds (low_pc, high_pc/len) (2 chunks): [('0x80c8950', '0x80c896a'), ('0x80da1c0', '0x80da1da')]
+-------------------
+Func Name: '(indirectstring,offset:0x23697):d_template_args'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8103850', '0x810393e')]
+-------------------
+Func Name: '(indirectstring,offset:0x13629):opncls_bseek'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x805fd00', '0x805fd5b')]
+-------------------
+Func Name: '(indirectstring,offset:0x23b94):d_print_java_identifier'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80f92e0', '0x80f9482')]
+-------------------
+Func Name: '(indirectstring,offset:0x11d2e):bfd_mmap'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8059660', '0x80596d1')]
+-------------------
+Func Name: '(indirectstring,offset:0x1947e):elf_x86_64_finish_dynamic_symbol'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8076270', '0x8076a9c')]
+-------------------
+Func Name: '(indirectstring,offset:0xeaed):bfd_scan_arch'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8057220', '0x8057261')]
+-------------------
+Func Name: '(indirectstring,offset:0x14488):_bfd_count_link_order_relocs'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8068660', '0x8068688')]
+-------------------
+Func Name: '(indirectstring,offset:0x214e7):_bfd_coff_write_task_globals'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80d4890', '0x80d48ed')]
+-------------------
+Func Name: '(indirectstring,offset:0xf82f):bfd_get_error_handler'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8057a40', '0x8057a46')]
+-------------------
+Func Name: '(indirectstring,offset:0x1adf3):_bfd_elf_rel_vtable_reloc_fn'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x808f050', '0x808f053')]
+-------------------
+Func Name: '(indirectstring,offset:0x1aa97):_bfd_dwarf1_find_nearest_line'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80b1c30', '0x80b1ea0')]
+-------------------
+Func Name: '(indirectstring,offset:0x199d9):_bfd_elf_link_hash_newfunc'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8094cd0', '0x8094daa')]
+-------------------
+Func Name: '(indirectstring,offset:0x14343):archive_hash_newfunc'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8065340', '0x8065392')]
+-------------------
+Func Name: '(indirectstring,offset:0x22afd):demangle_signature'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80f5810', '0x80f7071')]
+-------------------
+Func Name: '(indirectstring,offset:0x1b57a):_bfd_elf_get_dynamic_symtab_upper_bound'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x808ccf0', '0x808cd73')]
+-------------------
+Func Name: '(indirectstring,offset:0x22797):demangle_qualified'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80f3a90', '0x80f470d')]
+-------------------
+Func Name: '(indirectstring,offset:0x1b3da):_bfd_elf_get_reloc_upper_bound'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x808cd80', '0x808cd8f')]
+-------------------
+Func Name: '(indirectstring,offset:0x12131):coff_swap_reloc_out'
+Func bounds (low_pc, high_pc/len) (2 chunks): [('0x80c87f0', '0x80c886e'), ('0x80da060', '0x80da0de')]
+-------------------
+Func Name: '(indirectstring,offset:0xff82):bfd_demangle'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80589e0', '0x8058c4b')]
+-------------------
+Func Name: '(indirectstring,offset:0x187ee):elf_x86_64_copy_indirect_symbol'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8075880', '0x80759c0')]
+-------------------
+Func Name: '(indirectstring,offset:0x1f8f1):i386linux_object_p'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80bebc0', '0x80becaa')]
+-------------------
+Func Name: '(indirectstring,offset:0x1d2a4):_bfd_elf_common_section'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80ab7e0', '0x80ab7e6')]
+-------------------
+Func Name: '(indirectstring,offset:0x20aeb):dummy_reloc16_estimate'
+Func bounds (low_pc, high_pc/len) (2 chunks): [('0x80c8ea0', '0x80c8ebf'), ('0x80dad10', '0x80dad2f')]
+-------------------
+Func Name: '(indirectstring,offset:0x5656):get_file_size'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8051910', '0x8051a1c')]
+-------------------
+Func Name: '(indirectstring,offset:0x1a5dc):bfd_get_elf_phdr_upper_bound'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8093050', '0x8093083')]
+-------------------
+Func Name: '(indirectstring,offset:0x241a8):xcalloc'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8107790', '0x81077df')]
+-------------------
+Func Name: '(indirectstring,offset:0x1db4b):read_uleb128'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804a138', '0x804a199')]
+-------------------
+Func Name: '(indirectstring,offset:0x13a6a):bfd_get_section_by_name_if'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8061e70', '0x8061ef2')]
+-------------------
+Func Name: '(indirectstring,offset:0x2085a):coff_set_alignment_hook'
+Func bounds (low_pc, high_pc/len) (2 chunks): [('0x80cd990', '0x80cdc68'), ('0x80e0bc0', '0x80e0e98')]
+-------------------
+Func Name: '(indirectstring,offset:0x241ef):htab_clear_slot'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8106a90', '0x8106ada')]
+-------------------
+Func Name: '(indirectstring,offset:0x21a11):_bfd_pex64i_swap_lineno_out'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80e1cd0', '0x80e1d31')]
+-------------------
+Func Name: '(indirectstring,offset:0xc111):remove_output'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804e4b0', '0x804e4f1')]
+-------------------
+Func Name: '(indirectstring,offset:0x20847):pe_ILF_build_a_bfd'
+Func bounds (low_pc, high_pc/len) (2 chunks): [('0x80cc880', '0x80cd3e0'), ('0x80de820', '0x80df388')]
+-------------------
+Func Name: '(indirectstring,offset:0x142d0):bfd_hash_insert'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80645c0', '0x80647aa')]
+-------------------
+Func Name: '(indirectstring,offset:0x1a93d):_bfd_elf_swap_verdef_in'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8082c90', '0x8082d12')]
+-------------------
+Func Name: '(indirectstring,offset:0x1a2f5):_bfd_elf_symbol_from_bfd_symbol'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8089d60', '0x8089e2a')]
+-------------------
+Func Name: '(indirectstring,offset:0x18eb6):elf_x86_64_link_hash_table_free'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8077f50', '0x8077f89')]
+-------------------
+Func Name: '(indirectstring,offset:0x14451):bfd_section_already_linked_table_free'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8068780', '0x8068793')]
+-------------------
+Func Name: '(indirectstring,offset:0x12ba9):bfd_coff_get_syment'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x805d420', '0x805d4b4')]
+-------------------
+Func Name: '(indirectstring,offset:0xe1b2):bfd_flush'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8059380', '0x8059393')]
+-------------------
+Func Name: '(indirectstring,offset:0x2453e):xatexit_cleanup'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x81075d0', '0x8107600')]
+-------------------
+Func Name: '(indirectstring,offset:0x822):yyset_debug'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804d5b0', '0x804d5ba')]
+-------------------
+Func Name: '(indirectstring,offset:0x20cae):coff_i386_reloc'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80c8cc0', '0x80c8e9c')]
+-------------------
+Func Name: '(indirectstring,offset:0x22a16):xrealloc'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x81077e0', '0x8107822')]
+-------------------
+Func Name: '(indirectstring,offset:0x21437):_bfd_coff_reloc_link_order'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80d80a0', '0x80d8406')]
+-------------------
+Func Name: '(indirectstring,offset:0x1d1df):_bfd_elf_tls_setup'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x809da60', '0x809daca')]
+-------------------
+Func Name: '(indirectstring,offset:0x19a0b):_bfd_elf_create_ifunc_sections'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x807d700', '0x807d898')]
+-------------------
+Func Name: '(indirectstring,offset:0x1fce4):aout_32_swap_ext_reloc_in'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80c5090', '0x80c526a')]
+-------------------
+Func Name: '(indirectstring,offset:0x17ffa):simple_dummy_reloc_overflow'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80741c0', '0x80741c6')]
+-------------------
+Func Name: '(indirectstring,offset:0x13aa8):bfd_make_section_anyway_with_flags'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8062160', '0x8062314')]
+-------------------
+Func Name: '(indirectstring,offset:0xdf3c):_bfd_generic_read_ar_hdr'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8052ff0', '0x805300b')]
+-------------------
+Func Name: '(indirectstring,offset:0x1f2c9):bfd_i386linux_size_dynamic_sections'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80bfe10', '0x80bff0f')]
+-------------------
+Func Name: '(indirectstring,offset:0x133d8):bfd_getb_signed_32'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x805f200', '0x805f232')]
+-------------------
+Func Name: '(indirectstring,offset:0x1c7c0):bfd_elf_perform_complex_relocation'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80a5b60', '0x80a604d')]
+-------------------
+Func Name: '(indirectstring,offset:0x14e2b):binary_object_p'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x806b140', '0x806b1f4')]
+-------------------
+Func Name: '(indirectstring,offset:0x12959):coff_print_aux'
+Func bounds (low_pc, high_pc/len) (2 chunks): [('0x80c89b0', '0x80c89b3'), ('0x80da200', '0x80da203')]
+-------------------
+Func Name: '(indirectstring,offset:0x13485):bfd_putb64'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x805f590', '0x805f5ef')]
+-------------------
+Func Name: '(indirectstring,offset:0x13b77):bfd_generic_discard_group'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8062a30', '0x8062a36')]
+-------------------
+Func Name: '(indirectstring,offset:0x1eff3):_bfd_elf32_bfd_from_remote_memory'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80bd2e0', '0x80bda1d')]
+-------------------
+Func Name: '(indirectstring,offset:0x235c6):cplus_demangle_v3_callback'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8105080', '0x8105099')]
+-------------------
+Func Name: '(indirectstring,offset:0x2140c):_bfd_coff_debug_merge_hash_newfunc'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80d55e0', '0x80d5636')]
+-------------------
+Func Name: '(indirectstring,offset:0x13a12):bfd_set_section_flags'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80624c0', '0x80624d1')]
+-------------------
+Func Name: '(indirectstring,offset:0x215b8):pex64_xdata_print_uwd_codes'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80da310', '0x80da894')]
+-------------------
+Func Name: '(indirectstring,offset:0x11fec):coff_get_symtab_upper_bound'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x805b0c0', '0x805b0f7')]
+-------------------
+Func Name: '(indirectstring,offset:0x201ac):aout_32_swap_ext_reloc_out'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80c4f10', '0x80c508a')]
+-------------------
+Func Name: '(indirectstring,offset:0x109f1):bfd_get_gp_size'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8058240', '0x805827a')]
+-------------------
+Func Name: '(indirectstring,offset:0x6ef):yyrestart'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804c100', '0x804c292')]
+-------------------
+Func Name: '(indirectstring,offset:0x206ae):coff_i386_reloc_name_lookup'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80c9b20', '0x80c9b77')]
+-------------------
+Func Name: '(indirectstring,offset:0xe3bc):_bfd_generic_mkarchive'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8052870', '0x80528a3')]
+-------------------
+Func Name: '(indirectstring,offset:0x1ea91):elf_i386_mkobject'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80b50b0', '0x80b50d3')]
+-------------------
+Func Name: '(indirectstring,offset:0x6f9):yy_scan_bytes'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804d3a0', '0x804d4e6')]
+-------------------
+Func Name: '(indirectstring,offset:0x1bc5c):_bfd_elf_canonicalize_reloc'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x808cd90', '0x808ce05')]
+-------------------
+Func Name: '(indirectstring,offset:0x1975b):_bfd_elf_allocate_ifunc_dyn_relocs'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x807d9d0', '0x807dd9f')]
+-------------------
+Func Name: '(indirectstring,offset:0x1c02b):_bfd_elf_end_eh_frame_parsing'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80af360', '0x80af372')]
+-------------------
+Func Name: '(indirectstring,offset:0x1c891):_bfd_elf_gc_mark'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80a9b60', '0x80a9fc2')]
+-------------------
+Func Name: '(indirectstring,offset:0x154c4):scan_unit_for_symbols'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8070e30', '0x807176c')]
+-------------------
+Func Name: '(indirectstring,offset:0x12e2f):_bfd_coff_internal_syment_name'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x805b160', '0x805b250')]
+-------------------
+Func Name: '(indirectstring,offset:0x20122):aout_get_external_symbols'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80bff10', '0x80c0136')]
+-------------------
+Func Name: '(indirectstring,offset:0x14c4e):srec_get_symbol_info'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8069730', '0x8069745')]
+-------------------
+Func Name: '(indirectstring,offset:0x1cf55):_bfd_elf_parse_eh_frame'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80adeb0', '0x80af35d')]
+-------------------
+Func Name: '(indirectstring,offset:0x1a806):bfd_elf_generic_reloc'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80839f0', '0x8083a3a')]
+-------------------
+Func Name: '(indirectstring,offset:0x1ab31):_bfd_elf_find_nearest_line'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x808eb00', '0x808eb53')]
+-------------------
+Func Name: '(indirectstring,offset:0x21ee6):bfd_generic_relax_section'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80e9da0', '0x80e9de8')]
+-------------------
+Func Name: '(indirectstring,offset:0x1e71c):elf_i386_allocate_dynrelocs'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80b4490', '0x80b4b0c')]
+-------------------
+Func Name: '(indirectstring,offset:0x1eda9):elf_i386_relocate_section'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80b7070', '0x80ba565')]
+-------------------
+Func Name: '(indirectstring,offset:0x19fdf):bfd_elf64_swap_symbol_in'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x807e090', '0x807e16d')]
+-------------------
+Func Name: '(indirectstring,offset:0xe513):bfd_getb32'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x805f1a0', '0x805f1c5')]
+-------------------
+Func Name: '(indirectstring,offset:0x1eb87):elf_i386_always_size_sections'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80b4b10', '0x80b4c32')]
+-------------------
+Func Name: '(indirectstring,offset:0x14aaf):generic_link_check_archive_element'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80673a0', '0x80676a3')]
+-------------------
+Func Name: '(indirectstring,offset:0x13592):bfd_make_writable'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8060f00', '0x8060f9c')]
+-------------------
+Func Name: '(indirectstring,offset:0x1aafd):_bfd_elf_parse_attributes'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80ac9a0', '0x80ace17')]
+-------------------
+Func Name: '(indirectstring,offset:0x1394a):bfd_alloc2'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8061130', '0x8061228')]
+-------------------
+Func Name: '(indirectstring,offset:0x14257):_bfd_stringtab_free'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8064ea0', '0x8064ec7')]
+-------------------
+Func Name: '(indirectstring,offset:0x86d):yy_scan_string'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804d4f0', '0x804d511')]
+-------------------
+Func Name: '(indirectstring,offset:0x10c79):bfd_preserve_finish'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8058870', '0x8058880')]
+-------------------
+Func Name: '(indirectstring,offset:0x1d4d9):_bfd_elf_link_hash_hide_symbol'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80a5540', '0x80a55bb')]
+-------------------
+Func Name: '(indirectstring,offset:0x229f0):cplus_demangle_v3'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8105020', '0x810507c')]
+-------------------
+Func Name: '(indirectstring,offset:0x18f3e):bfd_elf_gc_record_vtentry'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80aa8e0', '0x80aaa99')]
+-------------------
+Func Name: '(indirectstring,offset:0x24023):writeargv'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8105560', '0x8105602')]
+-------------------
+Func Name: '(indirectstring,offset:0x19d93):elf_x86_64_allocate_dynrelocs'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8077670', '0x8077c50')]
+-------------------
+Func Name: '(indirectstring,offset:0x1b1fe):_bfd_elf_compute_section_file_positions'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8085f70', '0x8089920')]
+-------------------
+Func Name: '(indirectstring,offset:0x1eed9):bfd_elf32_slurp_reloc_table'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80bc210', '0x80bc539')]
+-------------------
+Func Name: '(indirectstring,offset:0x1c9f5):bfd_elf_link_add_symbols'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x809e040', '0x80a22a9')]
+-------------------
+Func Name: '(indirectstring,offset:0x24246):htab_set_functions_ex'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x81061f0', '0x810621e')]
+-------------------
+Func Name: '(indirectstring,offset:0x13c3c):bfd_is_local_label'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8062ab0', '0x8062adb')]
+-------------------
+Func Name: '(indirectstring,offset:0x1e6fd):elf_i386_size_dynamic_sections'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80b3880', '0x80b448a')]
+-------------------
+Func Name: '(indirectstring,offset:0x1cf85):_bfd_elf_match_sections_by_type'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80a5b00', '0x80a5b59')]
+-------------------
+Func Name: '(indirectstring,offset:0x20918):coff_i386_rtype_to_howto'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80c8ac0', '0x80c8cb3')]
+-------------------
+Func Name: '(indirectstring,offset:0x14014):bfd_get_target_info'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8063f30', '0x8064297')]
+-------------------
+Func Name: '(indirectstring,offset:0x14745):_bfd_relocate_contents'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80e93d0', '0x80e9951')]
+-------------------
+Func Name: '(indirectstring,offset:0x13184):bfd_getl64'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x805f320', '0x805f3bb')]
+-------------------
+Func Name: '(indirectstring,offset:0x22d26):java_demangle_v3_callback'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8105100', '0x810511a')]
+-------------------
+Func Name: '(indirectstring,offset:0x145b7):_bfd_generic_link_add_one_symbol'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8066630', '0x80670fc')]
+-------------------
+Func Name: '(indirectstring,offset:0x1327e):bfd_false'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x805ea50', '0x805ea65')]
+-------------------
+Func Name: '(indirectstring,offset:0x21aac):_bfd_pex64_get_symbol_info'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80e7070', '0x80e7075')]
+-------------------
+Func Name: '(indirectstring,offset:0x1250a):bfd_make_section_anyway'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8062320', '0x8062343')]
+-------------------
+Func Name: '(indirectstring,offset:0x12813):coff_swap_filehdr_in'
+Func bounds (low_pc, high_pc/len) (2 chunks): [('0x80c8870', '0x80c8946'), ('0x80da0e0', '0x80da1b6')]
+-------------------
+Func Name: '(indirectstring,offset:0x23f4a):cplus_demangle_print'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8104ed0', '0x8104fcb')]
+-------------------
+Func Name: '(indirectstring,offset:0xe2f2):do_slurp_bsd_armap'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8052150', '0x8052339')]
+-------------------
+Func Name: '(indirectstring,offset:0xe5ae):bfd_generic_archive_p'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80533c0', '0x80535c7')]
+-------------------
+Func Name: '(indirectstring,offset:0xe957):bfd_release'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80613f0', '0x8061403')]
+-------------------
+Func Name: '(indirectstring,offset:0x191f8):_bfd_elf_symbol_refs_local_p'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x809d990', '0x809da5f')]
+-------------------
+Func Name: '(indirectstring,offset:0x1d76f):elf_gc_smash_unused_vtentry_relocs'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x809b750', '0x809b8e6')]
+-------------------
+Func Name: '(indirectstring,offset:0x19ba4):htab_find_slot_with_hash'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8106760', '0x8106982')]
+-------------------
+Func Name: '(indirectstring,offset:0x1977e):elf_x86_64_reloc_type_class'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80751b0', '0x80751cb')]
+-------------------
+Func Name: '(indirectstring,offset:0x1d089):_bfd_write_merged_section'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80ec470', '0x80ec65d')]
+-------------------
+Func Name: '(indirectstring,offset:0x1e5d9):elf_i386_reloc_name_lookup'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80b5020', '0x80b5071')]
+-------------------
+Func Name: '(indirectstring,offset:0x1ac1a):_bfd_elf_get_symbol_info'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x808e840', '0x808e855')]
+-------------------
+Func Name: '(indirectstring,offset:0x23bd9):is_gnu_v3_mangled_dtor'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8105150', '0x8105173')]
+-------------------
+Func Name: '(indirectstring,offset:0x1f9d6):aout_32_minisymbol_to_symbol'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80c5d30', '0x80c5e7f')]
+-------------------
+Func Name: '(indirectstring,offset:0xdb51):ar_emul_default_parse_arg'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80509c0', '0x80509c3')]
+-------------------
+Func Name: '(indirectstring,offset:0x24212):htab_remove_elt'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x81069d0', '0x8106a2a')]
+-------------------
+Func Name: '(indirectstring,offset:0xe217):bfd_elf64_archive_slurp_armap'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80e7a70', '0x80e7de1')]
+-------------------
+Func Name: '(indirectstring,offset:0x23cfc):d_unqualified_name'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x81029b0', '0x8102e3e')]
+-------------------
+Func Name: '(indirectstring,offset:0x188ea):elf_x86_64_grok_prstatus'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8075780', '0x8075877')]
+-------------------
+Func Name: '(indirectstring,offset:0x2235c):set_cplus_marker_for_demangling'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80ed490', '0x80ed49a')]
+-------------------
+Func Name: '(indirectstring,offset:0x20998):coff_set_section_contents'
+Func bounds (low_pc, high_pc/len) (2 chunks): [('0x80c9820', '0x80c9962'), ('0x80db690', '0x80db7d2')]
+-------------------
+Func Name: '(indirectstring,offset:0x1a6ce):_bfd_elf_copy_private_bfd_data'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8083a40', '0x8083b02')]
+-------------------
+Func Name: '(indirectstring,offset:0x18920):elf_x86_64_gc_mark_hook'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8075a70', '0x8075af3')]
+-------------------
+Func Name: '(indirectstring,offset:0x1e93a):elf_i386_finish_dynamic_sections'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80b2740', '0x80b2f42')]
+-------------------
+Func Name: '(indirectstring,offset:0x1ec9f):elf_i386_adjust_dynamic_symbol'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80b4c40', '0x80b4e0c')]
+-------------------
+Func Name: '(indirectstring,offset:0x1a29f):bfd_elf64_swap_reloca_out'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x807e290', '0x807e307')]
+-------------------
+Func Name: '(indirectstring,offset:0x108ed):_bfd_default_assert_handler'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8057670', '0x8057677')]
+-------------------
+Func Name: '(indirectstring,offset:0x1ae18):_bfd_elf_copy_obj_attributes'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80ac6b0', '0x80ac919')]
+-------------------
+Func Name: '(indirectstring,offset:0xe31c):bfd_gnu_truncate_arname'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8054c80', '0x8054d36')]
+-------------------
+Func Name: '(indirectstring,offset:0x241e5):htab_size'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8105ed0', '0x8105ed8')]
+-------------------
+Func Name: '(indirectstring,offset:0x1377b):objalloc_free_block'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8107430', '0x8107562')]
+-------------------
+Func Name: '(indirectstring,offset:0x1b13b):_bfd_elf_canonicalize_dynamic_reloc'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x808cf30', '0x808d06e')]
+-------------------
+Func Name: '(indirectstring,offset:0xa19c):main'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804a570', '0x804b870')]
+-------------------
+Func Name: '(indirectstring,offset:0x1c685):elf_sort_elf_symbol'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8093a30', '0x8093a43')]
+-------------------
+Func Name: '(indirectstring,offset:0x19a95):_bfd_elf_relocs_compatible'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x809de80', '0x809dec7')]
+-------------------
+Func Name: '(indirectstring,offset:0x132dc):bfd_0'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x805eaa0', '0x805eaa3')]
+-------------------
+Func Name: '(indirectstring,offset:0x16192):stash_maybe_update_info_hash_tables'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8071770', '0x8071a52')]
+-------------------
+Func Name: '(indirectstring,offset:0x11d3c):real_fseek'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8059110', '0x8059115')]
+-------------------
+Func Name: '(indirectstring,offset:0x1878c):elf_x86_64_link_hash_newfunc'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8078170', '0x80781d7')]
+-------------------
+Func Name: '(indirectstring,offset:0x1dcb0):vma_compare'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80adc70', '0x80adcb9')]
+-------------------
+Func Name: '(indirectstring,offset:0x11c91):memory_bflush'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8058c60', '0x8058c63')]
+-------------------
+Func Name: '(indirectstring,offset:0x61e3):write_archive'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804e2f0', '0x804e473')]
+-------------------
+Func Name: '(indirectstring,offset:0xb950):_bfd_merge_sections'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80ebcb0', '0x80ec465')]
+-------------------
+Func Name: '(indirectstring,offset:0x1cca3):elf_create_symbuf'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8049d41', '0x8049f4b')]
+-------------------
+Func Name: '(indirectstring,offset:0x1fc59):aout_32_reloc_type_lookup'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80c2720', '0x80c279c')]
+-------------------
+Func Name: '(indirectstring,offset:0x117c2):_bfd_set_gp_value'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8058320', '0x8058392')]
+-------------------
+Func Name: '(indirectstring,offset:0x217e4):coff_amd64_reloc'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80daa90', '0x80dad0c')]
+-------------------
+Func Name: '(indirectstring,offset:0x1498d):bfd_generic_define_common_symbol'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8068ec0', '0x8068fed')]
+-------------------
+Func Name: '(indirectstring,offset:0x14870):_bfd_generic_link_split_section'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8068690', '0x8068693')]
+-------------------
+Func Name: '(indirectstring,offset:0x224d5):work_stuff_copy_to_from'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80ecbf0', '0x80ecf94')]
+-------------------
+Func Name: '(indirectstring,offset:0x1a41c):bfd_elf64_swap_reloc_out'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x807e230', '0x807e28d')]
+-------------------
+Func Name: '(indirectstring,offset:0xe1c3):bfd_getl32'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x805f1d0', '0x805f1f7')]
+-------------------
+Func Name: '(indirectstring,offset:0x23c17):d_expression'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8103940', '0x81041a9')]
+-------------------
+Func Name: '(indirectstring,offset:0x22b44):cplus_demangle_type'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8101db0', '0x8102798')]
+-------------------
+Func Name: '(indirectstring,offset:0x1fcfe):aout_32_get_reloc_upper_bound'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80c59d0', '0x80c5a81')]
+-------------------
+Func Name: '(indirectstring,offset:0x1ef61):bfd_elf32_core_file_failing_command'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80bda50', '0x80bda61')]
+-------------------
+Func Name: '(indirectstring,offset:0x19129):elf_x86_64_local_htab_hash'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8075150', '0x8075172')]
+-------------------
+Func Name: '(indirectstring,offset:0x1021b):bfd_set_reloc'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8057a70', '0x8057a83')]
+-------------------
+Func Name: '(indirectstring,offset:0xe6d3):_bfd_archive_bsd_construct_extended_name_table'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80545c0', '0x80545e7')]
+-------------------
+Func Name: '(indirectstring,offset:0x1c718):_bfd_elf_link_assign_sym_version'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8097ef0', '0x8098299')]
+-------------------
+Func Name: '(indirectstring,offset:0x36f8):list_supported_targets'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8050ca0', '0x8050d52')]
+-------------------
+Func Name: '(indirectstring,offset:0x19cef):elf_x86_64_hash_symbol'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8075370', '0x807539b')]
+-------------------
+Func Name: '(indirectstring,offset:0x182ad):verilog_set_section_contents'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8074d10', '0x8074e77')]
+-------------------
+Func Name: '(indirectstring,offset:0x11f3f):bfd_cache_close_all'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80599a0', '0x8059a3c')]
+-------------------
+Func Name: '(indirectstring,offset:0x18b2a):elf_x86_64_reloc_name_lookup'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80781e0', '0x807826b')]
+-------------------
+Func Name: '(indirectstring,offset:0x1b4a7):_bfd_elf_set_arch_mach'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x808e8d0', '0x808e90c')]
+-------------------
+Func Name: '(indirectstring,offset:0x1466f):_bfd_generic_link_hash_table_free'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8066220', '0x806623d')]
+-------------------
+Func Name: '(indirectstring,offset:0x11ee5):cache_bstat'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8059ec0', '0x8059f2f')]
+-------------------
+Func Name: '(indirectstring,offset:0x1836f):elf_append_rela'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80aba40', '0x80abaef')]
+-------------------
+Func Name: '(indirectstring,offset:0x12a7f):coff_renumber_symbols'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x805b660', '0x805b9e5')]
+-------------------
+Func Name: '(indirectstring,offset:0x18f65):elf64_l1om_elf_object_p'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80752e0', '0x8075308')]
+-------------------
+Func Name: '(indirectstring,offset:0x123e6):coff_get_symbol_info'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x805d3c0', '0x805d41e')]
+-------------------
+Func Name: '(indirectstring,offset:0x228fa):cplus_demangle_set_style'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80ed520', '0x80ed54e')]
+-------------------
+Func Name: '(indirectstring,offset:0x1c80c):elf_add_dt_needed_tag'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x809dc20', '0x809de65')]
+-------------------
+Func Name: '(indirectstring,offset:0x1f77e):aout_32_adjust_sizes_and_vmas'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80c3390', '0x80c3e95')]
+-------------------
+Func Name: '(indirectstring,offset:0x2000b):aout_link_add_symbols'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80c01a0', '0x80c06c1')]
+-------------------
+Func Name: '(indirectstring,offset:0x1fece):aout_32_slurp_symbol_table'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80c4560', '0x80c4687')]
+-------------------
+Func Name: '(indirectstring,offset:0x1e566):elf_i386_fake_sections'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80b21e0', '0x80b2219')]
+-------------------
+Func Name: '(indirectstring,offset:0x21d72):bfd_generic_lookup_section_flags'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80e9e00', '0x80e9e3f')]
+-------------------
+Func Name: '(indirectstring,offset:0x1367e):_objalloc_alloc'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8107320', '0x81073f8')]
+-------------------
+Func Name: '(indirectstring,offset:0x228a8):cplus_demangle'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80eda90', '0x80edc4f')]
+-------------------
+Func Name: '(indirectstring,offset:0x136ef):opncls_bstat'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x805fe10', '0x805fead')]
+-------------------
+Func Name: '(indirectstring,offset:0x1d478):bfd_elf_get_dyn_lib_class'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80a5880', '0x80a58ab')]
+-------------------
+Func Name: '(indirectstring,offset:0xe4c6):_bfd_new_bfd_contained_in'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8060000', '0x806004b')]
+-------------------
+Func Name: '(indirectstring,offset:0x13807):bfd_fopen'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8060100', '0x8060282')]
+-------------------
+Func Name: '(indirectstring,offset:0x1b864):_bfd_elf_strtab_size'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80ad780', '0x80ad799')]
+-------------------
+Func Name: '(indirectstring,offset:0x13edc):bfd_set_symtab'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8062ae0', '0x8062b22')]
+-------------------
+Func Name: '(indirectstring,offset:0x15235):ihex_write_object_contents'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x806d5f0', '0x806dae7')]
+-------------------
+Func Name: '(indirectstring,offset:0x1f636):MY_final_link_callback'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80be100', '0x80be2d8')]
+-------------------
+Func Name: '(indirectstring,offset:0x1ff9b):aout_32_machine_type'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80c2fc0', '0x80c32df')]
+-------------------
+Func Name: '(indirectstring,offset:0x19ff8):bfd_elf64_slurp_reloc_table'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x807f660', '0x807f989')]
+-------------------
+Func Name: '(indirectstring,offset:0x151f2):ihex_object_p'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x806de20', '0x806e9f7')]
+-------------------
+Func Name: '(indirectstring,offset:0xdcb3):bfd_malloc'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x805ebc0', '0x805ec03')]
+-------------------
+Func Name: 'out'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x806b7a0', '0x806b901')]
+-------------------
+Func Name: '(indirectstring,offset:0x13295):bfd_putl32'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x805f550', '0x805f590')]
+-------------------
+Func Name: '(indirectstring,offset:0x245c6):xmalloc_failed'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x81076e0', '0x8107755')]
+-------------------
+Func Name: '(indirectstring,offset:0x1494d):bfd_hide_sym_by_version'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8069180', '0x80691af')]
+-------------------
+Func Name: '(indirectstring,offset:0x2a3f):ar_emul_replace'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8050900', '0x805092d')]
+-------------------
+Func Name: '(indirectstring,offset:0x20f0d):_bfd_pei_swap_lineno_out'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80cea10', '0x80cea71')]
+-------------------
+Func Name: '(indirectstring,offset:0x8ba):yypush_buffer_state'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804d0f0', '0x804d23a')]
+-------------------
+Func Name: '(indirectstring,offset:0xe572):_bfd_generic_write_ar_hdr'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8054740', '0x805477e')]
+-------------------
+Func Name: '(indirectstring,offset:0x12ab5):_bfd_coff_read_internal_relocs'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x805b250', '0x805b498')]
+-------------------
+Func Name: '(indirectstring,offset:0xa62):yy_init_buffer'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804bfc0', '0x804c0fb')]
+-------------------
+Func Name: '(indirectstring,offset:0x794):yyget_text'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804d560', '0x804d566')]
+-------------------
+Func Name: '(indirectstring,offset:0xe3a7):htab_find'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8106720', '0x8106754')]
+-------------------
+Func Name: '(indirectstring,offset:0x13999):bfd_get_unique_section_name'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8061f00', '0x8061feb')]
+-------------------
+Func Name: '(indirectstring,offset:0x1ae79):elfcore_write_prstatus'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8092930', '0x8092a7e')]
+-------------------
+Func Name: '(indirectstring,offset:0x10e78):bfd_emul_get_commonpagesize'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8058930', '0x8058967')]
+-------------------
+Func Name: '(indirectstring,offset:0x231f0):d_print_subexpr'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80fffe0', '0x81000ed')]
+-------------------
+Func Name: '(indirectstring,offset:0x138ba):bfd_malloc_and_get_section'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8062a10', '0x8062a1f')]
+-------------------
+Func Name: '(indirectstring,offset:0x1e533):bfd_elf32_swap_dyn_in'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80bae90', '0x80baedb')]
+-------------------
+Func Name: '(indirectstring,offset:0x11ef6):cache_bseek'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8059f90', '0x805a00c')]
+-------------------
+Func Name: '(indirectstring,offset:0x18433):elf_x86_64_relocate_section'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x807a650', '0x807d6fd')]
+-------------------
+Func Name: '(indirectstring,offset:0xa1b8):xmalloc_set_program_name'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x81076a0', '0x81076d5')]
+-------------------
+Func Name: '(indirectstring,offset:0x14f78):tekhex_get_symbol_info'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x806b780', '0x806b795')]
+-------------------
+Func Name: '(indirectstring,offset:0x1b561):_bfd_elf_swap_versym_out'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8083150', '0x808316f')]
+-------------------
+Func Name: '(indirectstring,offset:0x14db8):srec_get_symtab_upper_bound'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80691c0', '0x80691cf')]
+-------------------
+Func Name: '(indirectstring,offset:0xe806):_bfd_archive_bsd_update_armap_timestamp'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8056520', '0x80566ef')]
+-------------------
+Func Name: '(indirectstring,offset:0x1d93f):_bfd_elf_merge_unknown_attribute_list'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80ad130', '0x80ad24b')]
+-------------------
+Func Name: '(indirectstring,offset:0x1427c):bfd_hash_set_default_size'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8064ba0', '0x8064c4f')]
+-------------------
+Func Name: '(indirectstring,offset:0x998d):bfd_fatal'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8050a70', '0x8050a8b')]
+-------------------
+Func Name: '(indirectstring,offset:0x14f8f):tekhex_set_section_contents'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x806bb60', '0x806be19')]
+-------------------
+Func Name: '(indirectstring,offset:0x1a070):bfd_elf64_core_file_failing_signal'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8080ee0', '0x8080ef1')]
+-------------------
+Func Name: '(indirectstring,offset:0x1d17a):_bfd_elf_gc_mark_rsec'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80a9aa0', '0x80a9b60')]
+-------------------
+Func Name: '(indirectstring,offset:0x202e3):aout_32_link_hash_table_create'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80c6550', '0x80c65b4')]
+-------------------
+Func Name: '(indirectstring,offset:0x1876c):elf_x86_64_common_section_index'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8075260', '0x8075282')]
+-------------------
+Func Name: '(indirectstring,offset:0x1b080):_bfd_elf_init_reloc_shdr'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8084790', '0x8084962')]
+-------------------
+Func Name: '(indirectstring,offset:0x1a792):_bfd_elf_get_dynamic_reloc_upper_bound'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x808ce90', '0x808cf24')]
+-------------------
+Func Name: '(indirectstring,offset:0x20d21):pe_mkobject_hook'
+Func bounds (low_pc, high_pc/len) (2 chunks): [('0x80cbd00', '0x80cbe01'), ('0x80ddca0', '0x80ddda1')]
+-------------------
+Func Name: '(indirectstring,offset:0x18099):bfd_compress_section_contents'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8074550', '0x807468e')]
+-------------------
+Func Name: '(indirectstring,offset:0x23b5f):d_substitution'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80f88d0', '0x80f8af5')]
+-------------------
+Func Name: '(indirectstring,offset:0x23ca7):d_find_pack'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80f9570', '0x80f961c')]
+-------------------
+Func Name: '(indirectstring,offset:0xf270):bfd_set_gp_size'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8058280', '0x80582c6')]
+-------------------
+Func Name: '(indirectstring,offset:0x1d2bc):_bfd_elf_define_linkage_sym'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8099520', '0x809960e')]
+-------------------
+Func Name: '(indirectstring,offset:0x1d217):_bfd_elf_common_definition'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80ab7c0', '0x80ab7cf')]
+-------------------
+Func Name: '(indirectstring,offset:0x223f4):do_arg'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80f16c0', '0x80f1981')]
+-------------------
+Func Name: '(indirectstring,offset:0x2005a):aout_link_check_archive_element'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80c2340', '0x80c2719')]
+-------------------
+Func Name: '(indirectstring,offset:0x13a95):bfd_rename_section'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80624e0', '0x8062505')]
+-------------------
+Func Name: '(indirectstring,offset:0x4ea5):ar_emul_parse_arg'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80509a0', '0x80509b3')]
+-------------------
+Func Name: '(indirectstring,offset:0x23fe3):buildargv'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x81052c0', '0x810555e')]
+-------------------
+Func Name: '(indirectstring,offset:0x1d71a):_bfd_elf_fix_symbol_flags'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8097b20', '0x8097ee7')]
+-------------------
+Func Name: '(indirectstring,offset:0x570):yy_switch_to_buffer'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804ce80', '0x804cfb0')]
+-------------------
+Func Name: '(indirectstring,offset:0xdd99):mode_string'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8051cf0', '0x8051e60')]
+-------------------
+Func Name: '(indirectstring,offset:0x1a672):_bfd_elf_sizeof_headers'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x808ec60', '0x808ed43')]
+-------------------
+Func Name: '(indirectstring,offset:0x13369):bfd_nullvoidptr'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x805ea80', '0x805ea95')]
+-------------------
+Func Name: '(indirectstring,offset:0x1a1a3):bfd_elf64_swap_symbol_out'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x807ea00', '0x807eaf3')]
+-------------------
+Func Name: '(indirectstring,offset:0x13443):bfd_getl_signed_16'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x805f120', '0x805f141')]
+-------------------
+Func Name: '(indirectstring,offset:0x19227):elf_x86_64_write_core_note'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80753a0', '0x8075608')]
+-------------------
+Func Name: '(indirectstring,offset:0xc5c9):open_inarch'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804e770', '0x804e9ae')]
+-------------------
+Func Name: '(indirectstring,offset:0x1c663):merge_sections_remove_hook'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8093bc0', '0x8093bff')]
+-------------------
+Func Name: '(indirectstring,offset:0x1ec02):elf_i386_grok_prstatus'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80b2390', '0x80b24bf')]
+-------------------
+Func Name: '(indirectstring,offset:0x14bae):internal_srec_write_object_contents'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8069750', '0x8069b40')]
+-------------------
+Func Name: '(indirectstring,offset:0xe9b4):bfd_get_arch_info'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8057480', '0x805748b')]
+-------------------
+Func Name: '(indirectstring,offset:0x14808):already_linked_newfunc'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8065310', '0x806533c')]
+-------------------
+Func Name: '(indirectstring,offset:0x197bf):_bfd_elf_link_hash_copy_indirect'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80a5340', '0x80a5539')]
+-------------------
+Func Name: '(indirectstring,offset:0x1f099):elf32_r_info'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80bda20', '0x80bda3d')]
+-------------------
+Func Name: '(indirectstring,offset:0x19e6b):nacl_modify_segment_map'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x807dda0', '0x807deff')]
+-------------------
+Func Name: '(indirectstring,offset:0x6e8a):ranlib_usage'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804db80', '0x804dda6')]
+-------------------
+Func Name: '(indirectstring,offset:0x131):ar_delete'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804f0d0', '0x804f208')]
+-------------------
+Func Name: '(indirectstring,offset:0x2113b):_bfd_pei_final_link_postscript'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80d3dc0', '0x80d42b0')]
+-------------------
+Func Name: '(indirectstring,offset:0x1af11):assign_section_numbers'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8081890', '0x8082260')]
+-------------------
+Func Name: '(indirectstring,offset:0x13b91):bfd_hash_lookup'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80647b0', '0x8064901')]
+-------------------
+Func Name: '(indirectstring,offset:0x1ba41):_bfd_elf_find_segment_containing_section'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80850e0', '0x8085133')]
+-------------------
+Func Name: '(indirectstring,offset:0x1943a):bfd_sym_from_r_symndx'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8083f30', '0x8084046')]
+-------------------
+Func Name: '(indirectstring,offset:0x1c06a):_bfd_write_stab_strings'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80eb450', '0x80eb543')]
+-------------------
+Func Name: '(indirectstring,offset:0x13456):bfd_getl_signed_32'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x805f240', '0x805f274')]
+-------------------
+Func Name: '(indirectstring,offset:0x122a0):coff_sizeof_headers'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x805e190', '0x805e1c9')]
+-------------------
+Func Name: '(indirectstring,offset:0x1d116):bfd_elf_match_symbols_in_sections'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8093d70', '0x809476b')]
+-------------------
+Func Name: '(indirectstring,offset:0x22469):iterate_demangle_function'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80f7080', '0x80f73b0')]
+-------------------
+Func Name: '(indirectstring,offset:0xe6a5):bfd_bwrite'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8059270', '0x805930e')]
+-------------------
+Func Name: '(indirectstring,offset:0x1baf2):_bfd_elf_eh_frame_section_offset'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80afe50', '0x80b00d6')]
+-------------------
+Func Name: '(indirectstring,offset:0x203b1):aout_32_set_arch_mach'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80c32e0', '0x80c3385')]
+-------------------
+Func Name: '(indirectstring,offset:0x1ad79):_bfd_elf_swap_verneed_in'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8082eb0', '0x8082f24')]
+-------------------
+Func Name: '(indirectstring,offset:0x2158c):_bfd_pex64i_swap_aouthdr_out'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80e2520', '0x80e340d')]
+-------------------
+Func Name: '(indirectstring,offset:0x18efd):elf_x86_64_local_htab_eq'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8075180', '0x80751a6')]
+-------------------
+Func Name: '(indirectstring,offset:0x219e9):_bfd_pex64i_swap_sym_out'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80e15d0', '0x80e16b1')]
+-------------------
+Func Name: '(indirectstring,offset:0xeb08):bfd_arch_default_fill'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8056d80', '0x8056dc7')]
+-------------------
+Func Name: '(indirectstring,offset:0x1b41b):d_name'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x81041b0', '0x8104741')]
+-------------------
+Func Name: '(indirectstring,offset:0x1b50a):elf_parse_notes'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x808f220', '0x809073f')]
+-------------------
+Func Name: '(indirectstring,offset:0x17f71):simple_dummy_undefined_symbol'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80741b0', '0x80741b6')]
+-------------------
+Func Name: '(indirectstring,offset:0x1887a):_bfd_elf_gc_mark_hook'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80a9980', '0x80a9a9d')]
+-------------------
+Func Name: '(indirectstring,offset:0xdc58):bfd_close_all_done'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8060dd0', '0x8060ead')]
+-------------------
+Func Name: '(indirectstring,offset:0x1c5f0):_bfd_elf_begin_eh_frame_parsing'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80ade90', '0x80adeaa')]
+-------------------
+Func Name: '(indirectstring,offset:0x150fa):tekhex_get_symtab_upper_bound'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x806b710', '0x806b71f')]
+-------------------
+Func Name: '(indirectstring,offset:0x14a68):_bfd_nearby_section'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8068b70', '0x8068ccf')]
+-------------------
+Func Name: '(indirectstring,offset:0x1e5a7):bfd_elf32_swap_dyn_out'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80baee0', '0x80baf3d')]
+-------------------
+Func Name: '(indirectstring,offset:0x2330f):d_operator_name'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x81027a0', '0x8102902')]
+-------------------
+Func Name: '(indirectstring,offset:0x11c3b):real_fopen'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8059120', '0x8059184')]
+-------------------
+Func Name: '(indirectstring,offset:0x14be2):srec_set_section_contents'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8069510', '0x80696f5')]
+-------------------
+Func Name: '(indirectstring,offset:0x5f4):yyset_out'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804d590', '0x804d59a')]
+-------------------
+Func Name: '(indirectstring,offset:0x306):ar_save'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804f210', '0x804f2b4')]
+-------------------
+Func Name: '(indirectstring,offset:0x1276e):bfd_coff_get_auxent'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x805d4c0', '0x805d5b8')]
+-------------------
+Func Name: '(indirectstring,offset:0x1b04):print_arelt_descr'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8051630', '0x8051749')]
+-------------------
+Func Name: '(indirectstring,offset:0x14f37):tekhex_make_empty_symbol'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x806b730', '0x806b76c')]
+-------------------
+Func Name: '(indirectstring,offset:0x1ac86):_bfd_elf_get_symtab_upper_bound'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x808cc90', '0x808ccee')]
+-------------------
+Func Name: '(indirectstring,offset:0xe1f7):bfd_realloc'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x805ece0', '0x805ed32')]
+-------------------
+Func Name: '(indirectstring,offset:0x244b8):choose_tmpdir'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8106fc0', '0x81071b9')]
+-------------------
+Func Name: '(indirectstring,offset:0x1c2c4):_bfd_link_section_stabs'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80ea280', '0x80eada4')]
+-------------------
+Func Name: '(indirectstring,offset:0x163cb):_bfd_dwarf2_cleanup_debug_info'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8074020', '0x8074195')]
+-------------------
+Func Name: '(indirectstring,offset:0x1b5fb):_bfd_elf_find_line'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x808eb60', '0x808ebb3')]
+-------------------
+Func Name: '(indirectstring,offset:0x1f6af):aout_32_mkobject'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80c2f40', '0x80c2fb7')]
+-------------------
+Func Name: '(indirectstring,offset:0x227ca):cplus_mangle_opname'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80ed4a0', '0x80ed51a')]
+-------------------
+Func Name: '(indirectstring,offset:0x2166d):coff_amd64_reloc_name_lookup'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80db980', '0x80db9d7')]
+-------------------
+Func Name: '(indirectstring,offset:0x139fb):bfd_get_linker_section'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8061de0', '0x8061e63')]
+-------------------
+Func Name: '(indirectstring,offset:0x1d2ee):_bfd_elf_link_lookup_local_dynindx'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x809a210', '0x809a24e')]
+-------------------
+Func Name: '(indirectstring,offset:0x6e91):usage'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804ddb0', '0x804e2ea')]
+-------------------
+Func Name: '(indirectstring,offset:0xe0cd):_bfd_generic_get_elt_at_index'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8053160', '0x8053202')]
+-------------------
+Func Name: '(indirectstring,offset:0x18d75):_bfd_elf_create_dynamic_sections'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8099a40', '0x8099be7')]
+-------------------
+Func Name: '(indirectstring,offset:0x3a0d):bfd_fdopenr'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80602c0', '0x806037b')]
+-------------------
+Func Name: '(indirectstring,offset:0x24092):filename_hash'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8105a60', '0x8105a9f')]
+-------------------
+Func Name: '(indirectstring,offset:0x13333):bfd_getb16'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x805f0b0', '0x805f0c6')]
+-------------------
+Func Name: '(indirectstring,offset:0x2194f):_bfd_pex64i_final_link_postscript'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80e7080', '0x80e76a8')]
+-------------------
+Func Name: '(indirectstring,offset:0x1ba21):bfd_elf_print_symbol'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8083b10', '0x8083e86')]
+-------------------
+Func Name: '(indirectstring,offset:0x1ab17):_bfd_elf_swap_vernaux_out'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8083070', '0x8083122')]
+-------------------
+Func Name: '(indirectstring,offset:0x16f8c):find_abstract_instance_name'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x806fbc0', '0x806fd48')]
+-------------------
+Func Name: '(indirectstring,offset:0x13490):_bfd_generic_verify_endian_match'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x805fa90', '0x805fb1a')]
+-------------------
+Func Name: '(indirectstring,offset:0x11f02):cache_bmmap'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8059d30', '0x8059eb2')]
+-------------------
+Func Name: '(indirectstring,offset:0xea7c):bfd_octets_per_byte'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8057570', '0x80575ef')]
+-------------------
+Func Name: '(indirectstring,offset:0x1312a):bfd_realloc2'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x805ed40', '0x805ee32')]
+-------------------
+Func Name: '(indirectstring,offset:0x21ec2):bfd_get_reloc_code_name'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80e9d80', '0x80e9d9b')]
+-------------------
+Func Name: '(indirectstring,offset:0x1fcb4):aout_32_canonicalize_reloc'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80c5900', '0x80c59c3')]
+-------------------
+Func Name: '(indirectstring,offset:0x1c16e):_bfd_add_merge_section'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80eb9a0', '0x80ebca3')]
+-------------------
+Func Name: '(indirectstring,offset:0x212dc):_bfd_coff_final_link'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80d8410', '0x80d9916')]
+-------------------
+Func Name: '(indirectstring,offset:0x20b02):coff_pe_i386_relocate_section'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80c8ee0', '0x80c8f38')]
+-------------------
+Func Name: '(indirectstring,offset:0x22717):demangle_args'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80f1990', '0x80f203d')]
+-------------------
+Func Name: '(indirectstring,offset:0x14e97):binary_mkobject'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x806b0f0', '0x806b0f6')]
+-------------------
+Func Name: '(indirectstring,offset:0x1b946):_bfd_elf_set_osabi'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80937d0', '0x8093803')]
+-------------------
+Func Name: '(indirectstring,offset:0x12871):coff_print_symbol'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x805d5c0', '0x805da47')]
+-------------------
+Func Name: '(indirectstring,offset:0x9c73):extract_file'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804d6b0', '0x804d97e')]
+-------------------
+Func Name: '(indirectstring,offset:0x1eefd):bfd_elf32_swap_phdr_in'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80bc540', '0x80bc61d')]
+-------------------
+Func Name: '(indirectstring,offset:0x1e3f6):elf_vxworks_create_dynamic_sections'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80ba600', '0x80ba6d4')]
+-------------------
+Func Name: '(indirectstring,offset:0x1ed2e):elf_i386_grok_psinfo'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80b2220', '0x80b238a')]
+-------------------
+Func Name: '(indirectstring,offset:0x20589):coff_write_object_contents'
+Func bounds (low_pc, high_pc/len) (2 chunks): [('0x80ca780', '0x80cba82'), ('0x80dc5f0', '0x80dd9ba')]
+-------------------
+Func Name: '(indirectstring,offset:0x1ef3b):elf32_r_sym'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80bda40', '0x80bda50')]
+-------------------
+Func Name: '(indirectstring,offset:0x19350):elf_x86_64_adjust_dynamic_symbol'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8077d80', '0x8077f4f')]
+-------------------
+Func Name: '(indirectstring,offset:0x1806a):simple_dummy_reloc_dangerous'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80741d0', '0x80741d6')]
+-------------------
+Func Name: '(indirectstring,offset:0x20324):aout_link_write_other_symbol'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80c0730', '0x80c0ac2')]
+-------------------
+Func Name: '(indirectstring,offset:0x87c):yyget_in'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804d530', '0x804d536')]
+-------------------
+Func Name: '(indirectstring,offset:0x11fce):_bfd_coff_is_local_label_name'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x805da50', '0x805da6a')]
+-------------------
+Func Name: '(indirectstring,offset:0x1d803):elf_link_output_sym'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8098450', '0x80986b7')]
+-------------------
+Func Name: '(indirectstring,offset:0x1271c):bfd_symbol_info'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8062ea0', '0x8062efe')]
+-------------------
+Func Name: '(indirectstring,offset:0x24227):hash_pointer'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8105c20', '0x8105c28')]
+-------------------
+Func Name: '(indirectstring,offset:0x1da6d):vendor_obj_attr_size'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80abba0', '0x80abe09')]
+-------------------
+Func Name: '(indirectstring,offset:0x1bff3):elf_collect_hash_codes'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8094db0', '0x8094e87')]
+-------------------
+Func Name: '(indirectstring,offset:0x1f02c):bfd_elf32_core_file_pid'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80bda90', '0x80bdaa1')]
+-------------------
+Func Name: '(indirectstring,offset:0x21885):_bfd_pex64_bfd_copy_private_bfd_data_common'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80e6eb0', '0x80e6f7c')]
+-------------------
+Func Name: '(indirectstring,offset:0x141d0):_bfd_stringtab_size'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80650c0', '0x80650cb')]
+-------------------
+Func Name: '(indirectstring,offset:0x13509):_bfd_generic_get_section_contents'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x805f7c0', '0x805f949')]
+-------------------
+Func Name: '(indirectstring,offset:0x1c8ab):compare_link_order'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8095ff0', '0x809617c')]
+-------------------
+Func Name: '(indirectstring,offset:0x1b099):_bfd_elf_canonicalize_dynamic_symtab'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x808ce50', '0x808ce8c')]
+-------------------
+Func Name: '(indirectstring,offset:0x1bd03):_bfd_stab_section_offset'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80eb550', '0x80eb5fc')]
+-------------------
+Func Name: '(indirectstring,offset:0x184d8):elf_x86_64_finish_local_dynamic_symbol'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8076aa0', '0x8076acc')]
+-------------------
+Func Name: '(indirectstring,offset:0xdfb2):_bfd_archive_bsd44_construct_extended_name_table'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80545f0', '0x8054735')]
+-------------------
+Func Name: '(indirectstring,offset:0x1d8f8):_bfd_elf_merge_object_attributes'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80ace20', '0x80ad025')]
+-------------------
+Func Name: '(indirectstring,offset:0x11c76):memory_bstat'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8058c80', '0x8058d0d')]
+-------------------
+Func Name: '(indirectstring,offset:0x1a347):bfd_elf64_swap_dyn_in'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x807e310', '0x807e35b')]
+-------------------
+Func Name: '(indirectstring,offset:0x2042f):_bfd_pei_swap_scnhdr_out'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80d0a80', '0x80d0e90')]
+-------------------
+Func Name: '(indirectstring,offset:0x100a5):bfd_set_error_handler'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8057a20', '0x8057a30')]
+-------------------
+Func Name: '(indirectstring,offset:0x1804f):simple_restore_output_info'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8074260', '0x8074285')]
+-------------------
+Func Name: '(indirectstring,offset:0x14d95):srec_set_arch_mach'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8069700', '0x8069725')]
+-------------------
+Func Name: '(indirectstring,offset:0x1cc1c):elf_sort_symbol'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8093980', '0x8093a24')]
+-------------------
+Func Name: '(indirectstring,offset:0x1ee72):elf_vxworks_add_symbol_hook'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80ba570', '0x80ba5f2')]
+-------------------
+Func Name: '(indirectstring,offset:0x22f27):is_gnu_v3_mangled_ctor'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8105120', '0x8105143')]
+-------------------
+Func Name: '(indirectstring,offset:0x1d648):bfd_elf_final_link'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80a61b0', '0x80a9976')]
+-------------------
+Func Name: '(indirectstring,offset:0x1316b):_bfd_dummy_target'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x805eba0', '0x805ebb5')]
+-------------------
+Func Name: '(indirectstring,offset:0x14dd4):binary_sizeof_headers'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x806b110', '0x806b113')]
+-------------------
+Func Name: '(indirectstring,offset:0x13713):opncls_bread'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x805fd60', '0x805fdac')]
+-------------------
+Func Name: '(indirectstring,offset:0x22a02):demangle_expression'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80f4ee0', '0x80f526f')]
+-------------------
+Func Name: '(indirectstring,offset:0x1c96b):_bfd_elf_gc_mark_extra_sections'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80aa080', '0x80aa127')]
+-------------------
+Func Name: '(indirectstring,offset:0x14506):_bfd_generic_link_hash_newfunc'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8065730', '0x80657af')]
+-------------------
+Func Name: '(indirectstring,offset:0x14791):_bfd_generic_link_hash_table_create'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80661b0', '0x806621c')]
+-------------------
+Func Name: '(indirectstring,offset:0x1d61b):_bfd_elf_gc_mark_fdes'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80af380', '0x80af50c')]
+-------------------
+Func Name: '(indirectstring,offset:0x1f3d9):i386linux_callback'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80becb0', '0x80bf72c')]
+-------------------
+Func Name: '(indirectstring,offset:0x227aa):demangle_template_template_parm'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80f1270', '0x80f16ba')]
+-------------------
+Func Name: '(indirectstring,offset:0xea48):bfd_arch_bits_per_address'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8057470', '0x805747e')]
+-------------------
+Func Name: '(indirectstring,offset:0x5596):bfd_get_section_contents'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80627d0', '0x8062a0a')]
+-------------------
+Func Name: '(indirectstring,offset:0x11ec9):cache_bwrite'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x805a060', '0x805a124')]
+-------------------
+Func Name: '(indirectstring,offset:0x132e2):_bfd_nocore_core_file_pid'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x805eb80', '0x805eb95')]
+-------------------
+Func Name: '(indirectstring,offset:0x1a1bd):bfd_elf64_core_file_pid'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8080f00', '0x8080f11')]
+-------------------
+Func Name: '(indirectstring,offset:0x14afa):bfd_find_version_for_sym'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8068ff0', '0x806917f')]
+-------------------
+Func Name: '(indirectstring,offset:0x1862f):elf_x86_64_readonly_dynrelocs'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80759c0', '0x8075a6e')]
+-------------------
+Func Name: '(indirectstring,offset:0x1a6c1):bfd_elf_hash'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8083170', '0x80831a4')]
+-------------------
+Func Name: '(indirectstring,offset:0x1f2fc):aout_32_final_link'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80c6680', '0x80c8763')]
+-------------------
+Func Name: '(indirectstring,offset:0x13a4d):bfd_generic_is_group_section'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8062a20', '0x8062a23')]
+-------------------
+Func Name: '(indirectstring,offset:0x130ba):bfd_format_string'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x805ea10', '0x805ea34')]
+-------------------
+Func Name: '(indirectstring,offset:0x13ca8):_bfd_generic_read_minisymbols'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8062f00', '0x8062fda')]
+-------------------
+Func Name: '(indirectstring,offset:0x19242):elf_x86_64_common_definition'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8075240', '0x807525c')]
+-------------------
+Func Name: '(indirectstring,offset:0x1cda1):elf_sym_name_compare'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8093c00', '0x8093c1b')]
+-------------------
+Func Name: '(indirectstring,offset:0x2c7):ar_list'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804f510', '0x804f5f5')]
+-------------------
+Func Name: '(indirectstring,offset:0x5a5c):print_descr'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804e480', '0x804e4a5')]
+-------------------
+Func Name: '(indirectstring,offset:0x11c24):bfd_get_mtime'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80595d0', '0x8059620')]
+-------------------
+Func Name: '(indirectstring,offset:0x1c155):bfd_elf_get_runpath_list'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80a5900', '0x80a5917')]
+-------------------
+Func Name: '(indirectstring,offset:0x1eba5):elf_i386_finish_dynamic_symbol'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80b2f50', '0x80b3847')]
+-------------------
+Func Name: '(indirectstring,offset:0xdca6):bfd_scan_vma'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80583a0', '0x80583a5')]
+-------------------
+Func Name: '(indirectstring,offset:0x1e50):_bfd_slurp_extended_name_table'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8053e10', '0x805406d')]
+-------------------
+Func Name: '(indirectstring,offset:0x1333e):_bfd_nocore_core_file_matches_executable_p'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x805eb20', '0x805eb35')]
+-------------------
+Func Name: '(indirectstring,offset:0x1ba6a):_bfd_elf_map_sections_to_segments'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8085190', '0x8085f65')]
+-------------------
+Func Name: '(indirectstring,offset:0x13416):bfd_log2'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x805fa20', '0x805fa51')]
+-------------------
+Func Name: '(indirectstring,offset:0x14b7a):srec_sizeof_headers'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80691b0', '0x80691b3')]
+-------------------
+Func Name: '(indirectstring,offset:0x19412):elf_x86_64_elf_section_from_bfd_section'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8075220', '0x8075240')]
+-------------------
+Func Name: '(indirectstring,offset:0x10ea4):bfd_preserve_restore'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80587e0', '0x805886a')]
+-------------------
+Func Name: '(indirectstring,offset:0x235fc):d_growable_string_callback_adapter'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80f9490', '0x80f956c')]
+-------------------
+Func Name: '(indirectstring,offset:0x1c75e):bfd_elf_lookup_section_flags'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80aaaa0', '0x80aad73')]
+-------------------
+Func Name: '(indirectstring,offset:0x12027):coff_find_nearest_line'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x805e0f0', '0x805e143')]
+-------------------
+Func Name: '(indirectstring,offset:0x11ce1):real_ftell'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8059100', '0x8059105')]
+-------------------
+Func Name: '(indirectstring,offset:0x14e0d):binary_get_symtab_upper_bound'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x806b100', '0x806b106')]
+-------------------
+Func Name: '(indirectstring,offset:0x11f53):bfd_cache_lookup_worker'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8059be0', '0x8059d2d')]
+-------------------
+Func Name: '(indirectstring,offset:0x1efd9):bfd_elf32_swap_symbol_out'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80bb590', '0x80bb683')]
+-------------------
+Func Name: '(indirectstring,offset:0x14691):_bfd_fix_excluded_sec_syms'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8068d80', '0x8068eb7')]
+-------------------
+Func Name: '(indirectstring,offset:0x2414b):htab_find_with_hash'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x81065e0', '0x8106712')]
+-------------------
+Func Name: '(indirectstring,offset:0xde1d):parse_vma'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80518b0', '0x805190e')]
+-------------------
+Func Name: '(indirectstring,offset:0x1283c):coff_mangle_symbols'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x805b9f0', '0x805bb39')]
+-------------------
+Func Name: '(indirectstring,offset:0x320):ar_end'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804f600', '0x804f629')]
+-------------------
+Func Name: '(indirectstring,offset:0x14902):_bfd_generic_section_already_linked'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8068a80', '0x8068b64')]
+-------------------
+Func Name: '(indirectstring,offset:0x21d9c):bfd_generic_gc_sections'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80e9df0', '0x80e9df6')]
+-------------------
+Func Name: '(indirectstring,offset:0x11397):bfd_sprintf_vma'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8058560', '0x8058600')]
+-------------------
+Func Name: '(indirectstring,offset:0x3b0d):ar_emul_usage'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8050170', '0x8050182')]
+-------------------
+Func Name: '(indirectstring,offset:0x1ddba):iterative_hash'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8106c10', '0x8106e98')]
+-------------------
+Func Name: '(indirectstring,offset:0x133c5):bfd_getb_signed_16'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x805f0f0', '0x805f111')]
+-------------------
+Func Name: '(indirectstring,offset:0x2232e):cplus_demangle_name_to_style'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80ed550', '0x80ed58d')]
+-------------------
+Func Name: '(indirectstring,offset:0x1dce9):skip_cfa_op'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804a199', '0x804a3c5')]
+-------------------
+Func Name: '(indirectstring,offset:0x1a6ed):elf_fake_sections'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8084970', '0x808500c')]
+-------------------
+Func Name: '(indirectstring,offset:0x1c585):bfd_elf_set_obj_attr_contents'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80abe70', '0x80ac1e4')]
+-------------------
+Func Name: '(indirectstring,offset:0x145f9):_bfd_generic_link_add_symbols'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80676f0', '0x80677df')]
+-------------------
+Func Name: '(indirectstring,offset:0x134b1):bfd_putb16'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x805f150', '0x805f17e')]
+-------------------
+Func Name: '(indirectstring,offset:0xea11):bfd_arch_get_compatible'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80572f0', '0x8057383')]
+-------------------
+Func Name: '(indirectstring,offset:0x23e32):d_parmlist'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8102910', '0x81029a7')]
+-------------------
+Func Name: '(indirectstring,offset:0x1c1db):bfd_elf_reloc_symbol_deleted_p'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8094770', '0x8094907')]
+-------------------
+Func Name: '(indirectstring,offset:0xe160):_bfd_write_archive_contents'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8055140', '0x8055da2')]
+-------------------
+Func Name: '(indirectstring,offset:0x13ad8):bfd_sections_find_if'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8062570', '0x80625c4')]
+-------------------
+Func Name: '(indirectstring,offset:0x21e29):bfd_reloc_name_lookup'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80e9cd0', '0x80e9cdf')]
+-------------------
+Func Name: '(indirectstring,offset:0x3891):xexit'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8107680', '0x810769a')]
+-------------------
+Func Name: '(indirectstring,offset:0x21054):_bfd_pei_swap_lineno_in'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80ce9c0', '0x80cea08')]
+-------------------
+Func Name: '(indirectstring,offset:0x1cc3a):_bfd_elf_strtab_delref'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80ad640', '0x80ad733')]
+-------------------
+Func Name: '(indirectstring,offset:0x1f13d):bfd_elf32_swap_phdr_out'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80bc620', '0x80bc752')]
+-------------------
+Func Name: '(indirectstring,offset:0xe29c):bfd_slurp_bsd_armap_f2'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8053b70', '0x8053e0e')]
+-------------------
+Func Name: '(indirectstring,offset:0xde8b):bfd_nonfatal_message'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8051b30', '0x8051c6b')]
+-------------------
+Func Name: '(indirectstring,offset:0x5638):bfd_slurp_armap'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80535d0', '0x8053b68')]
+-------------------
+Func Name: '(indirectstring,offset:0x38a):ar_addmod'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804efb0', '0x804f0a1')]
+-------------------
+Func Name: '(indirectstring,offset:0x1e58c):elf_i386_reloc_type_lookup'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80b1ea0', '0x80b20b6')]
+-------------------
+Func Name: '(indirectstring,offset:0x1135b):bfd_emul_set_commonpagesize'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8058970', '0x80589d6')]
+-------------------
+Func Name: '(indirectstring,offset:0x21a60):_bfd_pex64i_swap_aux_in'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80e16c0', '0x80e18fe')]
+-------------------
+Func Name: '(indirectstring,offset:0x242cf):htab_elements'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8105ee0', '0x8105eeb')]
+-------------------
+Func Name: '(indirectstring,offset:0xf9dd):bfd_get_sign_extend_vma'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8058110', '0x805821c')]
+-------------------
+Func Name: '(indirectstring,offset:0xe5f):xatexit'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8107600', '0x8107673')]
+-------------------
+Func Name: '(indirectstring,offset:0x1bdb3):elfcore_write_register_note'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8092d10', '0x809304f')]
+-------------------
+Func Name: '(indirectstring,offset:0x1313d):warn_deprecated'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x805fb20', '0x805fbd7')]
+-------------------
+Func Name: '(indirectstring,offset:0x1d4a9):init_reloc_cookie'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8093c20', '0x8093d6a')]
+-------------------
+Func Name: '(indirectstring,offset:0x17950):read_attribute_value'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x806f7f0', '0x806fbb9')]
+-------------------
+Func Name: '(indirectstring,offset:0x1fc8d):aout_link_includes_newfunc'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80c0140', '0x80c0193')]
+-------------------
+Func Name: '(indirectstring,offset:0x17adc):decode_line_info'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x806fd50', '0x8070e21')]
+-------------------
+Func Name: '(indirectstring,offset:0x1c409):bfd_elf_size_dynamic_sections'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80a2350', '0x80a3d5f')]
+-------------------
+Func Name: '(indirectstring,offset:0x1f044):bfd_elf32_core_file_matches_executable_p'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80bdab0', '0x80bdb3f')]
+-------------------
+Func Name: '(indirectstring,offset:0x21353):_bfd_coff_link_add_symbols'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80d5840', '0x80d58c5')]
+-------------------
+Func Name: '(indirectstring,offset:0x1bf9b):bfd_elf_size_dynsym_hash_dynstr'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80a4080', '0x80a5255')]
+-------------------
+Func Name: '(indirectstring,offset:0x2430e):dos_lbasename'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8106ee0', '0x8106f39')]
+-------------------
+Func Name: '(indirectstring,offset:0x1963f):elf_x86_64_additional_program_headers'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8075b00', '0x8075b54')]
+-------------------
+Func Name: '(indirectstring,offset:0x13bc4):bfd_make_section_old_way'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8061ff0', '0x806215f')]
+-------------------
+Func Name: '(indirectstring,offset:0x1e37b):elf_i386_local_htab_eq'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80b20f0', '0x80b2116')]
+-------------------
+Func Name: '(indirectstring,offset:0x8b70):bfd_get_relocated_section_contents'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80583b0', '0x8058429')]
+-------------------
+Func Name: '(indirectstring,offset:0x14318):generic_link_check_archive_element_collect'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80676d0', '0x80676e9')]
+-------------------
+Func Name: '(indirectstring,offset:0x13a85):bfd_hash_rename'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8064910', '0x80649d2')]
+-------------------
+Func Name: '(indirectstring,offset:0xf9f5):bfd_fprintf_vma'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8058600', '0x80586a0')]
+-------------------
+Func Name: '(indirectstring,offset:0x1d0b2):_bfd_elf_common_section_index'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80ab7d0', '0x80ab7d6')]
+-------------------
+Func Name: '(indirectstring,offset:0x1764d):add_line_info'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x806eca0', '0x806f0d0')]
+-------------------
+Func Name: '(indirectstring,offset:0x2dd):ar_clear'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804f0b0', '0x804f0c5')]
+-------------------
+Func Name: '(indirectstring,offset:0x21a78):_bfd_pex64_only_swap_filehdr_out'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80e3bf0', '0x80e3ce5')]
+-------------------
+Func Name: '(indirectstring,offset:0x1d3b7):_bfd_elf_link_read_relocs'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x809b470', '0x809b74b')]
+-------------------
+Func Name: '(indirectstring,offset:0x19a59):_bfd_elf_make_dynamic_reloc_section'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80ab900', '0x80aba15')]
+-------------------
+Func Name: '(indirectstring,offset:0x13636):bfd_make_section_with_flags'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8062350', '0x8062484')]
+-------------------
+Func Name: '(indirectstring,offset:0x1c3ae):_bfd_elf_get_dynamic_reloc_section'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80ab810', '0x80ab8f7')]
+-------------------
+Func Name: '(indirectstring,offset:0xe89a):bfd_get_next_mapent'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80528b0', '0x805291b')]
+-------------------
+Func Name: '(indirectstring,offset:0x135e3):bfd_create'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8060eb0', '0x8060f00')]
+-------------------
+Func Name: '(indirectstring,offset:0x1a225):_bfd_elf_slurp_version_tables'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x808d070', '0x808d98e')]
+-------------------
+Func Name: '(indirectstring,offset:0x1ff7e):aout_32_set_section_contents'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80c3f80', '0x80c4183')]
+-------------------
+Func Name: '(indirectstring,offset:0xe148):bfd_perror'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8057820', '0x8057a16')]
+-------------------
+Func Name: '(indirectstring,offset:0x1f217):aout_32_swap_exec_header_out'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80c2920', '0x80c2a09')]
+-------------------
+Func Name: '(indirectstring,offset:0xe843):getpwd'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8105ad0', '0x8105c1b')]
+-------------------
+Func Name: '(indirectstring,offset:0x1a18c):bfd_elf64_swap_dyn_out'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x807e360', '0x807e3bd')]
+-------------------
+Func Name: '(indirectstring,offset:0x63d):yylex_destroy'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804d5c0', '0x804d670')]
+-------------------
+Func Name: '(indirectstring,offset:0x29b):yylex'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804c2a0', '0x804ce79')]
+-------------------
+Func Name: '(indirectstring,offset:0x1b751):bfd_elf_bfd_from_remote_memory'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8093380', '0x8093397')]
+-------------------
+Func Name: '(indirectstring,offset:0x14c63):srec_write_record'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80691d0', '0x806943b')]
+-------------------
+Func Name: '(indirectstring,offset:0x1385e):opncls_bclose'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x805fdc0', '0x805fdeb')]
+-------------------
+Func Name: '(indirectstring,offset:0x1ee37):elf_vxworks_emit_relocs'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80ba770', '0x80ba957')]
+-------------------
+Func Name: '(indirectstring,offset:0xec85):bfd_alt_mach_code'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80586a0', '0x8058712')]
+-------------------
+Func Name: '(indirectstring,offset:0x21e3f):bfd_generic_get_relocated_section_contents'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80e9e50', '0x80ea219')]
+-------------------
+Func Name: '(indirectstring,offset:0x1c271):bfd_elf_gc_mark_dynamic_ref_symbol'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80aa130', '0x80aa1c6')]
+-------------------
+Func Name: '(indirectstring,offset:0x2164e):coff_pe_amd64_relocate_section'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80dad50', '0x80dada8')]
+-------------------
+Func Name: '(indirectstring,offset:0x2f):ar_extract'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804f630', '0x804f746')]
+-------------------
+Func Name: '(indirectstring,offset:0x1eb):ar_open'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804ec50', '0x804ee17')]
+-------------------
+Func Name: '(indirectstring,offset:0x1ea31):elf_vxworks_add_dynamic_entries'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80ba9e0', '0x80bab1f')]
+-------------------
+Func Name: '(indirectstring,offset:0x23bf0):is_ctor_or_dtor'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8104970', '0x8104a6d')]
+-------------------
+Func Name: '(indirectstring,offset:0x1c25e):eval_symbol'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8096180', '0x80979d2')]
+-------------------
+Func Name: '(indirectstring,offset:0x12a10):coff_write_alien_symbol'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x805bb40', '0x805bdc4')]
+-------------------
+Func Name: '(indirectstring,offset:0xe6b7):bsd_write_armap'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8055db0', '0x805651b')]
+-------------------
+Func Name: '(indirectstring,offset:0x60f):yy_fatal_error'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804bf90', '0x804bfb8')]
+-------------------
+Func Name: '(indirectstring,offset:0x122b4):coff_make_empty_symbol'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x805d2f0', '0x805d33c')]
+-------------------
+Func Name: '(indirectstring,offset:0x1f0a6):bfd_elf32_core_file_p'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80bdb40', '0x80be0bd')]
+-------------------
+Func Name: '(indirectstring,offset:0x14368):set_symbol_from_hash'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80651d0', '0x8065309')]
+-------------------
+Func Name: '(indirectstring,offset:0x133fa):bfd_getb_signed_64'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x805f3c0', '0x805f454')]
+-------------------
+Func Name: '(indirectstring,offset:0x1f0bc):bfd_elf32_write_shdrs_and_ehdr'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80bbac0', '0x80bbc63')]
+-------------------
+Func Name: '(indirectstring,offset:0x1985c):htab_traverse'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8106b30', '0x8106b94')]
+-------------------
+Func Name: '(indirectstring,offset:0x1203e):coff_find_nearest_line_with_names'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x805da70', '0x805e0e2')]
+-------------------
+Func Name: '(indirectstring,offset:0x21db4):bfd_perform_relocation'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80e84f0', '0x80e8caf')]
+-------------------
+Func Name: '(indirectstring,offset:0xe6c7):eq_file_ptr'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8051e70', '0x8051e8b')]
+-------------------
+Func Name: '(indirectstring,offset:0x1442b):bfd_section_already_linked_table_init'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8068750', '0x806877b')]
+-------------------
+Func Name: '(indirectstring,offset:0x14b2c):symbolsrec_write_object_contents'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8069b40', '0x8069b4e')]
+-------------------
+Func Name: '(indirectstring,offset:0x21b0f):elf_generic_info_to_howto'
+Func bounds (low_pc, high_pc/len) (2 chunks): [('0x80e76b0', '0x80e76bc'), ('0x80e77a0', '0x80e77ac')]
+-------------------
+Func Name: '(indirectstring,offset:0x1b199):_bfd_elf_close_and_cleanup'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x808eff0', '0x808f047')]
+-------------------
+Func Name: '(indirectstring,offset:0x12d2b):_bfd_dwarf2_find_inliner_info'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8073fd0', '0x807401c')]
+-------------------
+Func Name: '(indirectstring,offset:0x21b97):elf32_generic_link_add_symbols'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80e77c0', '0x80e7807')]
+-------------------
+Func Name: '(indirectstring,offset:0x1a125):bfd_elf64_swap_phdr_out'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x807fa70', '0x807fba2')]
+-------------------
+Func Name: '(indirectstring,offset:0x20e4f):_bfd_pei_swap_aouthdr_in'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80cea80', '0x80cf285')]
+-------------------
+Func Name: '(indirectstring,offset:0x144f3):bfd_new_link_order'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8068590', '0x80685e0')]
+-------------------
+Func Name: '(indirectstring,offset:0x1a746):_bfd_elf_copy_private_header_data'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x808a1d0', '0x808cba7')]
+-------------------
+Func Name: '(indirectstring,offset:0x19627):_bfd_elf_section_offset'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8093280', '0x8093373')]
+-------------------
+Func Name: '(indirectstring,offset:0x25b):ar_directory'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804ea20', '0x804ebff')]
+-------------------
+Func Name: '(indirectstring,offset:0x218f5):_bfd_pex64i_swap_scnhdr_out'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80e3cf0', '0x80e4100')]
+-------------------
+Func Name: '(indirectstring,offset:0x147d3):generic_link_check_archive_element_no_collect'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80676b0', '0x80676c9')]
+-------------------
+Func Name: '(indirectstring,offset:0xcdb5):_bfd_construct_extended_name_table'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8054070', '0x805458b')]
+-------------------
+Func Name: '(indirectstring,offset:0x1aad9):_bfd_elf_reloc_type_class'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80930f0', '0x80930f3')]
+-------------------
+Func Name: '(indirectstring,offset:0x9692):bfd_set_section_contents'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8062620', '0x80627cb')]
+-------------------
+Func Name: '(indirectstring,offset:0x1b8f1):_bfd_elf_find_nearest_line_discriminator'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x808e910', '0x808eaf7')]
+-------------------
+Func Name: '(indirectstring,offset:0x18c14):_bfd_clear_contents'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80e9ac0', '0x80e9cb4')]
+-------------------
+Func Name: '(indirectstring,offset:0x11c46):memory_btell'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8058c50', '0x8058c5b')]
+-------------------
+Func Name: '(indirectstring,offset:0x12ca2):coff_object_p'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x805aa00', '0x805b062')]
+-------------------
+Func Name: '(indirectstring,offset:0x186b2):_bfd_elf_adjust_dynamic_copy'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x809d7b0', '0x809d886')]
+-------------------
+Func Name: '(indirectstring,offset:0x13225):bfd_generic_is_local_label_name'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x805fa60', '0x805fa84')]
+-------------------
+Func Name: '(indirectstring,offset:0x1a05a):bfd_elf64_core_file_p'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8080fb0', '0x808152e')]
+-------------------
+Func Name: '(indirectstring,offset:0x1b51a):_bfd_elf_assign_file_positions_for_relocs'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8089920', '0x8089a92')]
+-------------------
+Func Name: '(indirectstring,offset:0xa518):bfd_openr'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8060290', '0x80602bb')]
+-------------------
+Func Name: '(indirectstring,offset:0x12079):coff_write_linenumbers'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x805c590', '0x805c784')]
+-------------------
+Func Name: '(indirectstring,offset:0x13811):bfd_zalloc2'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80612c0', '0x80613e2')]
+-------------------
+Func Name: '(indirectstring,offset:0x584):yyget_debug'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804d5a0', '0x804d5a6')]
+-------------------
+Func Name: '(indirectstring,offset:0x21934):_bfd_pex64i_swap_lineno_in'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80e1c80', '0x80e1cc8')]
+-------------------
+Func Name: '(indirectstring,offset:0x1fa60):aout_32_reloc_name_lookup'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80c27a0', '0x80c280b')]
+-------------------
+Func Name: '(indirectstring,offset:0x1c082):bfd_elf_set_dt_needed_name'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80a5850', '0x80a5877')]
+-------------------
+Func Name: '(indirectstring,offset:0x13d9a):_bfd_generic_minisymbol_to_symbol'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8062fe0', '0x8062fe7')]
+-------------------
+Func Name: '(indirectstring,offset:0x183da):elf_x86_64_always_size_sections'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8077c50', '0x8077d72')]
+-------------------
+Func Name: '(indirectstring,offset:0x1cd33):elf_gc_propagate_vtable_entries_used'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8093a50', '0x8093b12')]
+-------------------
+Func Name: '(indirectstring,offset:0x220c6):sec_merge_hash_lookup'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80eb720', '0x80eb921')]
+-------------------
+Func Name: '(indirectstring,offset:0x1ccf3):elf_link_input_bfd'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x809b8f0', '0x809d4bd')]
+-------------------
+Func Name: '(indirectstring,offset:0x1bb56):_bfd_merged_section_offset'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80ec660', '0x80ec90b')]
+-------------------
+Func Name: '(indirectstring,offset:0x17079):bfd_simple_get_relocated_section_contents'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8074290', '0x8074541')]
+-------------------
+Func Name: '(indirectstring,offset:0x210c0):_bfd_pe_only_swap_filehdr_out'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80d0980', '0x80d0a75')]
+-------------------
+Func Name: '(indirectstring,offset:0x1daf7):strtab_hash_newfunc'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8064380', '0x80643f2')]
+-------------------
+Func Name: '(indirectstring,offset:0x1aca6):_bfd_elf_strtab_finalize'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80ada10', '0x80adc5b')]
+-------------------
+Func Name: '(indirectstring,offset:0x10c8d):bfd_preserve_save'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8058720', '0x80587da')]
+-------------------
+Func Name: '(indirectstring,offset:0x21358):coff_link_add_symbols'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80d48f0', '0x80d5357')]
+-------------------
+Func Name: '(indirectstring,offset:0x1a7b9):get_program_header_size'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8081670', '0x808188d')]
+-------------------
+Func Name: '(indirectstring,offset:0x241c2):htab_empty'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x81064a0', '0x81065dd')]
+-------------------
+Func Name: '(indirectstring,offset:0x67f9):print_version'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8051c70', '0x8051ce3')]
+-------------------
+Func Name: '(indirectstring,offset:0x228b7):java_demangle_v3'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x81050a0', '0x81050fc')]
+-------------------
+Func Name: '(indirectstring,offset:0x1ec5b):elf_i386_local_htab_hash'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80b20c0', '0x80b20e2')]
+-------------------
+Func Name: '(indirectstring,offset:0xe362):bfd_write_bigendian_4byte_int'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x805f040', '0x805f0a8')]
+-------------------
+Func Name: '(indirectstring,offset:0x19102):elf_x86_64_common_section'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8075290', '0x80752ae')]
+-------------------
+Func Name: '(indirectstring,offset:0x1325e):bfd_putl64'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x805f5f0', '0x805f64f')]
+-------------------
+Func Name: '(indirectstring,offset:0x1a49a):_bfd_elf_setup_sections'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8083780', '0x80839cc')]
+-------------------
+Func Name: '(indirectstring,offset:0x1fdd0):aout_32_swap_std_reloc_in'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80c5270', '0x80c54f3')]
+-------------------
+Func Name: '(indirectstring,offset:0x208f0):pe_ILF_make_a_symbol'
+Func bounds (low_pc, high_pc/len) (2 chunks): [('0x80c9ba0', '0x80c9d4a'), ('0x80dba00', '0x80dbba2')]
+-------------------
+Func Name: '(indirectstring,offset:0x1f904):i386linux_set_sizes'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80be0c0', '0x80be0fe')]
+-------------------
+Func Name: '(indirectstring,offset:0x21b33):elf_generic_info_to_howto_rel'
+Func bounds (low_pc, high_pc/len) (2 chunks): [('0x80e76c0', '0x80e76cc'), ('0x80e77b0', '0x80e77bc')]
+-------------------
+Func Name: '(indirectstring,offset:0xe9fa):bfd_arch_bits_per_byte'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8057460', '0x805746e')]
+-------------------
+Func Name: '(indirectstring,offset:0xa86c):set_default_bfd_target'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8050bb0', '0x8050c08')]
+-------------------
+Func Name: '(indirectstring,offset:0x15214):ihex_get_section_contents'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x806daf0', '0x806de1d')]
+-------------------
+Func Name: '(indirectstring,offset:0x1a571):_bfd_elf64_bfd_from_remote_memory'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8080740', '0x8080e9d')]
+-------------------
+Func Name: '(indirectstring,offset:0x12237):coff_write_symbol'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x805a310', '0x805a8d5')]
+-------------------
+Func Name: '(indirectstring,offset:0xe942):adjust_relative_path'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8051e90', '0x8052149')]
+-------------------
+Func Name: '(indirectstring,offset:0xdde3):make_temp_file'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x81071c0', '0x81072bc')]
+-------------------
+Func Name: '(indirectstring,offset:0x1c73f):bfd_elf_record_link_assignment'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8099d00', '0x809a057')]
+-------------------
+Func Name: '(indirectstring,offset:0x143e2):bfd_wrapped_link_hash_lookup'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80658a0', '0x8065b03')]
+-------------------
+Func Name: '(indirectstring,offset:0x1483a):_bfd_generic_reloc_link_order'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8067e10', '0x806816c')]
+-------------------
+Func Name: '(indirectstring,offset:0x223c9):demangle_arm_hp_template'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80f00e0', '0x80f1270')]
+-------------------
+Func Name: '(indirectstring,offset:0xe3dc):_bfd_archive_coff_construct_extended_name_table'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8054590', '0x80545b7')]
+-------------------
+Func Name: '(indirectstring,offset:0x20a25):coff_i386_is_local_label_name'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80c9b80', '0x80c9b96')]
+-------------------
+Func Name: '(indirectstring,offset:0xacc5):list_matching_formats'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8050c10', '0x8050c95')]
+-------------------
+Func Name: '(indirectstring,offset:0x13fdd):bfd_search_for_target'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8064330', '0x8064379')]
+-------------------
+Func Name: '(indirectstring,offset:0x1844f):bfd_elf_gc_record_vtinherit'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80aa790', '0x80aa8d6')]
+-------------------
+Func Name: '(indirectstring,offset:0x21f93):stab_link_includes_newfunc'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80ea220', '0x80ea273')]
+-------------------
+Func Name: '(indirectstring,offset:0x1ef14):bfd_elf32_object_p'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80bca20', '0x80bd2d5')]
+-------------------
+Func Name: '(indirectstring,offset:0xe8f1):bfd_dont_truncate_arname'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8054ab0', '0x8054bd5')]
+-------------------
+Func Name: '(indirectstring,offset:0x1318f):bfd_zmalloc'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x805eed0', '0x805ef3c')]
+-------------------
+Func Name: '(indirectstring,offset:0x13b0d):bfd_map_over_sections'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8062510', '0x806256c')]
+-------------------
+Func Name: '(indirectstring,offset:0x1ad09):_bfd_elf_get_special_section'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8084080', '0x80841ec')]
+-------------------
+Func Name: '(indirectstring,offset:0x2014a):aout_32_bfd_free_cached_info'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80c6480', '0x80c6537')]
+-------------------
+Func Name: '(indirectstring,offset:0x1c8be):elf_merge_st_other'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80938a0', '0x8093972')]
+-------------------
+Func Name: '(indirectstring,offset:0xa71):yyget_lineno'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804d520', '0x804d526')]
+-------------------
+Func Name: '(indirectstring,offset:0x13437):bfd_malloc2'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x805ec10', '0x805ecd4')]
+-------------------
+Func Name: '(indirectstring,offset:0xeb88):bfd_set_arch_info'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8057390', '0x805739f')]
+-------------------
+Func Name: '(indirectstring,offset:0x219bb):_bfd_pex64i_only_swap_filehdr_out'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80e3410', '0x80e3beb')]
+-------------------
+Func Name: '(indirectstring,offset:0x1f10e):bfd_elf32_checksum_contents'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80bc760', '0x80bc9a0')]
+-------------------
+Func Name: '(indirectstring,offset:0x21a02):sort_x64_pdata'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80e12d0', '0x80e1352')]
+-------------------
+Func Name: '(indirectstring,offset:0xe465):_bfd_bsd44_write_ar_hdr'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8054780', '0x80549ab')]
+-------------------
+Func Name: '(indirectstring,offset:0x10795):_bfd_default_error_handler'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8057bb0', '0x8057f6a')]
+-------------------
+Func Name: '(indirectstring,offset:0x12fc2):coff_get_reloc_upper_bound'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x805d2b0', '0x805d2e3')]
+-------------------
+Func Name: '(indirectstring,offset:0x19b3a):elf_x86_64_plt_sym_val'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80751d0', '0x807521b')]
+-------------------
+Func Name: '(indirectstring,offset:0x1a6ff):_bfd_elf_new_section_hook'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8084290', '0x8084382')]
+-------------------
+Func Name: '(indirectstring,offset:0x1959c):elf_x86_64_mkobject'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8078270', '0x8078293')]
+-------------------
+Func Name: '(indirectstring,offset:0x18286):verilog_mkobject'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8074eb0', '0x8074f17')]
+-------------------
+Func Name: '(indirectstring,offset:0x138f7):bfd_openstreamr'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8060380', '0x80603ff')]
+-------------------
+Func Name: '(indirectstring,offset:0x135d6):_bfd_new_bfd'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x805feb0', '0x805fff8')]
+-------------------
+Func Name: '(indirectstring,offset:0x199be):_bfd_elf_add_dynamic_entry'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x809dad0', '0x809dc19')]
+-------------------
+Func Name: '(indirectstring,offset:0x2380e):d_print_mod_list'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80f9620', '0x80f9f36')]
+-------------------
+Func Name: '(indirectstring,offset:0x15cd4):read_rangelist'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x806f5b0', '0x806f7e5')]
+-------------------
+Func Name: '(indirectstring,offset:0x24068):filename_eq'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8105aa0', '0x8105ac3')]
+-------------------
+Func Name: '(indirectstring,offset:0x231b8):d_demangle_callback'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8104a70', '0x8104de0')]
+-------------------
+Func Name: '(indirectstring,offset:0x18c87):htab_delete'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8106420', '0x8106497')]
+-------------------
+Func Name: '(indirectstring,offset:0xdf5d):lrealpath'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8106f70', '0x8106fba')]
+-------------------
+Func Name: '(indirectstring,offset:0x1aa2f):_bfd_elf_make_empty_symbol'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x808e800', '0x808e834')]
+-------------------
+Func Name: '(indirectstring,offset:0x13253):bfd_putl16'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x805f180', '0x805f196')]
+-------------------
+Func Name: '(indirectstring,offset:0x20b7c):_bfd_pei_swap_aouthdr_out'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80cf290', '0x80d019d')]
+-------------------
+Func Name: '(indirectstring,offset:0x13398):_bfd_generic_find_nearest_line_discriminator'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x805fcd0', '0x805fcd3')]
+-------------------
+Func Name: '(indirectstring,offset:0x1ca32):_bfd_elf_maybe_strip_eh_frame_hdr'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80afdb0', '0x80afe48')]
+-------------------
+Func Name: '(indirectstring,offset:0x1a45a):bfd_elf_get_elf_syms'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8083330', '0x80836fe')]
+-------------------
+Func Name: '(indirectstring,offset:0x6f6f):make_tempname'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8051750', '0x8051804')]
+-------------------
+Func Name: '(indirectstring,offset:0x1bed4):bfd_elf_set_dyn_lib_class'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80a58b0', '0x80a58d7')]
+-------------------
+Func Name: '(indirectstring,offset:0x13986):opncls_btell'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x805fcf0', '0x805fcfe')]
+-------------------
+Func Name: '(indirectstring,offset:0x3240):non_fatal'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8050b40', '0x8050ba6')]
+-------------------
+Func Name: '(indirectstring,offset:0x13288):bfd_get_bits'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x805f6f0', '0x805f7b2')]
+-------------------
+Func Name: '(indirectstring,offset:0x14296):_bfd_xcoff_stringtab_init'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8064d70', '0x8064e96')]
+-------------------
+Func Name: '(indirectstring,offset:0x2007a):aout_32_slurp_reloc_table'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80c5500', '0x80c57d7')]
+-------------------
+Func Name: '(indirectstring,offset:0xe121):_bfd_generic_read_ar_hdr_mag'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8052a80', '0x8052fe9')]
+-------------------
+Func Name: '(indirectstring,offset:0x1a4d8):bfd_elf64_slurp_symbol_table'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x807e3c0', '0x807e9f5')]
+-------------------
+Func Name: '(indirectstring,offset:0x1b7a5):_bfd_elf_strtab_free'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80ad3e0', '0x80ad408')]
+-------------------
+Func Name: '(indirectstring,offset:0x1a014):bfd_section_from_shdr'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80917e0', '0x80925b3')]
+-------------------
+Func Name: '(indirectstring,offset:0x1cff9):bfd_elf_get_bfd_needed_list'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80a5950', '0x80a5af8')]
+-------------------
+Func Name: '(indirectstring,offset:0x1f421):linux_link_hash_newfunc'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80be7e0', '0x80be83a')]
+-------------------
+Func Name: '(indirectstring,offset:0x1adcf):_bfd_elf_get_synthetic_symtab'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80933a0', '0x80937c9')]
+-------------------
+Func Name: '(indirectstring,offset:0x14774):generic_link_add_symbol_list'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8067100', '0x80672a5')]
+-------------------
+Func Name: '(indirectstring,offset:0x13720):bfd_fill_in_gnu_debuglink_section'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8061a00', '0x8061bd7')]
+-------------------
+Func Name: '(indirectstring,offset:0x18c6e):_bfd_final_link_relocate'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80e9960', '0x80e9ab3')]
+-------------------
+Func Name: '(indirectstring,offset:0x1c635):_bfd_elf_write_section_eh_frame_hdr'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80b1400', '0x80b16bf')]
+-------------------
+Func Name: '(indirectstring,offset:0xea62):bfd_default_set_arch_mach'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80573a0', '0x8057431')]
+-------------------
+Func Name: '(indirectstring,offset:0x13912):bfd_make_readable'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8060fa0', '0x80610a2')]
+-------------------
+Func Name: '(indirectstring,offset:0x13552):_bfd_generic_set_section_contents'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x805f970', '0x805fa16')]
+-------------------
+Func Name: '(indirectstring,offset:0x93e):xstrdup'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8107830', '0x810786e')]
+-------------------
+Func Name: '(indirectstring,offset:0x23fb3):countargv'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8105a00', '0x8105a32')]
+-------------------
+Func Name: '(indirectstring,offset:0x1a328):elf64_r_info'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8080ea0', '0x8080eaf')]
+-------------------
+Func Name: '(indirectstring,offset:0x13bff):cmpindexentry'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8062a40', '0x8062aa7')]
+-------------------
+Func Name: '(indirectstring,offset:0x186cf):elf_x86_64_finish_dynamic_sections'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8075b60', '0x8076264')]
+-------------------
+Func Name: '(indirectstring,offset:0x137de):bfd_follow_gnu_debuglink'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8061450', '0x806192f')]
+-------------------
+Func Name: '(indirectstring,offset:0xf5f5):bfd_emul_set_maxpagesize'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80588c0', '0x8058926')]
+-------------------
+Func Name: '(indirectstring,offset:0x1e90e):elf_i386_link_hash_table_create'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80b4e50', '0x80b4fa4')]
+-------------------
+Func Name: '(indirectstring,offset:0x17fd6):simple_dummy_warning'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80741a0', '0x80741a6')]
+-------------------
+Func Name: '(indirectstring,offset:0x1e863):elf_i386_is_local_label_name'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80b5080', '0x80b50ac')]
+-------------------
+Func Name: '(indirectstring,offset:0x1cbd0):_bfd_elf_link_hash_table_create'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80a56e0', '0x80a5844')]
+-------------------
+Func Name: '(indirectstring,offset:0x13d12):bfd_decode_symclass'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8062cd0', '0x8062e7c')]
+-------------------
+Func Name: '(indirectstring,offset:0x20252):aout_32_read_minisymbols'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80c5c80', '0x80c5d27')]
+-------------------
+Func Name: '(indirectstring,offset:0x1a162):bfd_elf64_write_out_phdrs'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x807fe00', '0x807fe72')]
+-------------------
+Func Name: '(indirectstring,offset:0x205b8):dummy_reloc16_extra_cases'
+Func bounds (low_pc, high_pc/len) (2 chunks): [('0x80c8ec0', '0x80c8edf'), ('0x80dad30', '0x80dad4f')]
+-------------------
+Func Name: '(indirectstring,offset:0x1b5b9):bfd_elf_make_object'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8083280', '0x80832fe')]
+-------------------
+Func Name: '(indirectstring,offset:0x13269):read_unsigned_leb128'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x805fbe0', '0x805fc40')]
+-------------------
+Func Name: '(indirectstring,offset:0x2388e):d_print_mod'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x81006f0', '0x8101ca9')]
+-------------------
+Func Name: '(indirectstring,offset:0x123b0):_bfd_stab_section_find_nearest_line'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8062ff0', '0x8063d2a')]
+-------------------
+Func Name: '(indirectstring,offset:0x893):yyset_lineno'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804d570', '0x804d57a')]
+-------------------
+Func Name: '(indirectstring,offset:0x11cce):memory_bread'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8059020', '0x80590f8')]
+-------------------
+Func Name: '(indirectstring,offset:0x194cb):elf_x86_64_link_hash_table_create'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8077f90', '0x807816c')]
+-------------------
+Func Name: '(indirectstring,offset:0x632):yyget_leng'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804d550', '0x804d556')]
+-------------------
+Func Name: '(indirectstring,offset:0x1990f):_bfd_elf_create_got_section'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8099860', '0x80999c0')]
+-------------------
+Func Name: '(indirectstring,offset:0x1a02a):elf64_r_sym'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8080eb0', '0x8080eb7')]
+-------------------
+Func Name: '(indirectstring,offset:0x21253):_bfd_coff_write_global_sym'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80d42b0', '0x80d4884')]
+-------------------
+Func Name: '(indirectstring,offset:0x2212e):sec_merge_hash_newfunc'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80eb930', '0x80eb99b')]
+-------------------
+Func Name: '(indirectstring,offset:0x1c4de):_bfd_elf_default_relocs_compatible'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x809de70', '0x809de7f')]
+-------------------
+Func Name: '(indirectstring,offset:0xdbe6):ar_emul_default_replace'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8050930', '0x805099c')]
+-------------------
+Func Name: '(indirectstring,offset:0x1d96e):bfd_elf_add_obj_attr_string'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80ac3f0', '0x80ac54a')]
+-------------------
+Func Name: '(indirectstring,offset:0x1f749):aout_32_some_aout_object_p'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80c2ab0', '0x80c2f37')]
+-------------------
+Func Name: '(indirectstring,offset:0x19c84):_bfd_elf_write_section_eh_frame'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80b00e0', '0x80b13f9')]
+-------------------
+Func Name: '(indirectstring,offset:0xdecb):display_info'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8050e20', '0x8051623')]
+-------------------
+Func Name: '(indirectstring,offset:0x1d817):elf_append_rel'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80abaf0', '0x80abb9f')]
+-------------------
+Func Name: '(indirectstring,offset:0x228d5):demangle_function_name'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80f2570', '0x80f2d57')]
+-------------------
+Func Name: '(indirectstring,offset:0x14e3b):binary_canonicalize_symtab'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x806b470', '0x806b6c1')]
+-------------------
+Func Name: '(indirectstring,offset:0x13211):bfd_void'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x805eaf0', '0x805eaf2')]
+-------------------
+Func Name: '(indirectstring,offset:0xdc73):list_supported_architectures'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8050d60', '0x8050e12')]
+-------------------
+Func Name: '(indirectstring,offset:0x9991):fatal'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8050b10', '0x8050b33')]
+-------------------
+Func Name: '(indirectstring,offset:0x136ba):bfd_section_list_clear'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8061d10', '0x8061d4d')]
+-------------------
+Func Name: '(indirectstring,offset:0x14a05):_bfd_generic_link_add_symbols_collect'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80672b0', '0x806739f')]
+-------------------
+Func Name: '(indirectstring,offset:0x1a315):bfd_elf64_object_p'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x807fe80', '0x8080735')]
+-------------------
+Func Name: '(indirectstring,offset:0x12e4e):coff_write_symbols'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x805bdd0', '0x805c585')]
+-------------------
+Func Name: '(indirectstring,offset:0x1bacb):bfd_elf_is_group_section'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80839d0', '0x80839e9')]
+-------------------
+Func Name: '(indirectstring,offset:0x2103e):_bfd_pei_swap_aux_out'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80ce640', '0x80ce9b3')]
+-------------------
+Func Name: '(indirectstring,offset:0x21e89):bfd_generic_merge_sections'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80e9e40', '0x80e9e46')]
+-------------------
+Func Name: '(indirectstring,offset:0x1bb33):_bfd_elf_copy_private_section_data'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8089ff0', '0x808a0a8')]
+-------------------
+Func Name: '(indirectstring,offset:0x11d9c):cache_bread'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x805a130', '0x805a2fa')]
+-------------------
+Func Name: '(indirectstring,offset:0x1ae35):_bfd_elf_write_corefile_contents'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8089c90', '0x8089c95')]
+-------------------
+Func Name: '(indirectstring,offset:0x1ba04):_bfd_elf_is_local_label_name'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x808e860', '0x808e8a7')]
+-------------------
+Func Name: '(indirectstring,offset:0x1c6b7):bfd_elf_gc_common_finalize_got_offsets'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80aad80', '0x80aaf91')]
+-------------------
+Func Name: '(indirectstring,offset:0x1f665):aout_32_squirt_out_relocs'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80c57e0', '0x80c58fc')]
+-------------------
+Func Name: '(indirectstring,offset:0x1cb5a):bfd_elf_gc_sections'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80aa250', '0x80aa78c')]
+-------------------
+Func Name: '(indirectstring,offset:0x132a0):_bfd_generic_init_private_section_data'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x805fce0', '0x805fce6')]
+-------------------
+Func Name: '(indirectstring,offset:0x20d63):pe_bfd_object_p'
+Func bounds (low_pc, high_pc/len) (2 chunks): [('0x80cd3e0', '0x80cd889'), ('0x80df390', '0x80df81e')]
+-------------------
+Func Name: '(indirectstring,offset:0xe673):_bfd_calloc_wrapper'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8052340', '0x8052345')]
+-------------------
+Func Name: '(indirectstring,offset:0x21a37):_bfd_pex64_bfd_copy_private_section_data'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80e6f80', '0x80e706c')]
+-------------------
+Func Name: '(indirectstring,offset:0x19e83):nacl_modify_program_headers'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x807df00', '0x807e090')]
+-------------------
+Func Name: '(indirectstring,offset:0x22255):cplus_demangle_opname'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80f2040', '0x80f256b')]
+-------------------
+Func Name: '(indirectstring,offset:0x9561):smart_rename'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804f8e0', '0x804fb0d')]
+-------------------
+Func Name: '(indirectstring,offset:0x14bb7):srec_write_object_contents'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8069b50', '0x8069b5b')]
+-------------------
+Func Name: '(indirectstring,offset:0x142e0):_bfd_stringtab_add'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8064ed0', '0x80650bc')]
+-------------------
+Func Name: '(indirectstring,offset:0x1e4c1):elf_i386_copy_indirect_symbol'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80b24c0', '0x80b2600')]
+-------------------
+Func Name: '(indirectstring,offset:0x12e83):_bfd_dwarf2_find_nearest_line'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8073dd0', '0x8073efe')]
+-------------------
+Func Name: '(indirectstring,offset:0x144c0):bfd_link_repair_undef_list'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8066160', '0x80661ae')]
+-------------------
+Func Name: '(indirectstring,offset:0x1e64a):elf_i386_reloc_type_class'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80b2120', '0x80b2145')]
+-------------------
+Func Name: '(indirectstring,offset:0x1b46a):_bfd_elf_print_private_bfd_data'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x808d990', '0x808e7fe')]
+-------------------
+Func Name: '(indirectstring,offset:0x1d352):_bfd_discard_section_stabs'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80eadb0', '0x80eb1bb')]
+-------------------
+Func Name: '(indirectstring,offset:0x18297):verilog_set_arch_mach'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8074e80', '0x8074ea5')]
+-------------------
+Func Name: '(indirectstring,offset:0x9b8):yyset_in'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804d580', '0x804d58a')]
+-------------------
+Func Name: '(indirectstring,offset:0x1ac03):_bfd_elf_rel_local_sym'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80931f0', '0x809327f')]
+-------------------
+Func Name: '(indirectstring,offset:0x1b453):elfcore_write_prpsinfo'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80927a0', '0x8092923')]
+-------------------
+Func Name: '(indirectstring,offset:0x1a610):_bfd_elf_strtab_clear_all_refs'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80ad740', '0x80ad773')]
+-------------------
+Func Name: '(indirectstring,offset:0x20d83):_bfd_pe_print_ce_compressed_pdata'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80d0e90', '0x80d1482')]
+-------------------
+Func Name: '(indirectstring,offset:0xdaea):simple_copy'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804f750', '0x804f85c')]
+-------------------
+Func Name: '(indirectstring,offset:0x1a533):bfd_section_from_phdr'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8090740', '0x8090983')]
+-------------------
+Func Name: '(indirectstring,offset:0x1b64b):_bfd_elf_no_info_to_howto'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x808ee10', '0x808ee2f')]
+-------------------
+Func Name: '(indirectstring,offset:0x1f501):i386linux_write_object_contents'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80be840', '0x80beba4')]
+-------------------
+Func Name: '(indirectstring,offset:0x17f53):simple_dummy_unattached_reloc'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80741e0', '0x80741e6')]
+-------------------
+Func Name: '(indirectstring,offset:0x1e6cf):elf_i386_info_to_howto_rel'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80b5870', '0x80b5926')]
+-------------------
+Func Name: '(indirectstring,offset:0x10984):bfd_record_phdr'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8058430', '0x8058554')]
+-------------------
+Func Name: '(indirectstring,offset:0x14eb1):first_phase'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x806c8f0', '0x806ce72')]
+-------------------
+Func Name: '(indirectstring,offset:0x197f6):elf_x86_64_grok_psinfo'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8075610', '0x807577d')]
+-------------------
+Func Name: '(indirectstring,offset:0x1b324):_bfd_elf_swap_verdef_out'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8082d20', '0x8082df8')]
+-------------------
+Func Name: '(indirectstring,offset:0x1bbee):_bfd_elf_strtab_addref'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80ad580', '0x80ad637')]
+-------------------
+Func Name: '(indirectstring,offset:0x1340d):bfd_true'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x805ea70', '0x805ea76')]
+-------------------
+Func Name: '(indirectstring,offset:0x2139e):_bfd_coff_link_hash_table_create'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80d5770', '0x80d583c')]
+-------------------
+Func Name: '(indirectstring,offset:0x21732):coff_amd64_rtype_to_howto'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80da8a0', '0x80daa83')]
+-------------------
+Func Name: '(indirectstring,offset:0x127d7):coff_link_output_has_begun'
+Func bounds (low_pc, high_pc/len) (2 chunks): [('0x80c8aa0', '0x80c8ab2'), ('0x80da2f0', '0x80da302')]
+-------------------
+Func Name: '(indirectstring,offset:0x11d74):memory_bseek'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8058d60', '0x8058eb5')]
+-------------------
+Func Name: '(indirectstring,offset:0x195da):elf64_k1om_elf_object_p'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80752b0', '0x80752d8')]
+-------------------
+Func Name: '(indirectstring,offset:0x22f0e):d_clone_suffix'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80f8f80', '0x80f9082')]
+-------------------
+Func Name: '(indirectstring,offset:0x222b6):demangle_integral_value'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80f5270', '0x80f5527')]
+-------------------
+Func Name: '(indirectstring,offset:0x1f575):aout_32_write_syms'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80c4690', '0x80c4cda')]
+-------------------
+Func Name: '(indirectstring,offset:0x1ff23):bfd_get_stab_name'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80eb600', '0x80eb61a')]
+-------------------
+Func Name: '(indirectstring,offset:0x1f9fc):aout_32_swap_std_reloc_out'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80c4d40', '0x80c4f0e')]
+-------------------
+Func Name: '(indirectstring,offset:0x1c7a4):_bfd_elf_link_output_relocs'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x809d4c0', '0x809d6c1')]
+-------------------
+Func Name: '(indirectstring,offset:0x13894):opncls_bmmap'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x805fe00', '0x805fe06')]
+-------------------
+Func Name: '(indirectstring,offset:0x1db41):strrevcmp'
+Func bounds (low_pc, high_pc/len) (2 chunks): [('0x80ad250', '0x80ad2ba'), ('0x80eb620', '0x80eb68a')]
+-------------------
+Func Name: '(indirectstring,offset:0x282c):bfd_canonicalize_reloc'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8058010', '0x805805d')]
+-------------------
+Func Name: '(indirectstring,offset:0x125d1):coff_bfd_make_debug_symbol'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x805d340', '0x805d3b4')]
+-------------------
+Func Name: '(indirectstring,offset:0x1fd33):aout_32_sizeof_headers'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80c6470', '0x80c647e')]
+-------------------
+Func Name: '(indirectstring,offset:0x1c137):_bfd_elf_default_got_elt_size'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80ab7f0', '0x80ab810')]
+-------------------
+Func Name: '(indirectstring,offset:0x1d9ea):_bfd_elf_merge_unknown_attribute_low'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80ad030', '0x80ad128')]
+-------------------
+Func Name: '(indirectstring,offset:0x1376b):bfd_openr_iovec'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8060400', '0x806058a')]
+-------------------
+Func Name: '(indirectstring,offset:0x1b630):elf_sort_sections'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8081530', '0x8081662')]
+-------------------
+Func Name: '(indirectstring,offset:0x1dd15):_bfd_elf_eh_frame_address_size'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80b16c0', '0x80b16dc')]
+-------------------
+Func Name: '(indirectstring,offset:0x139c1):bfd_get_full_section_contents'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8074690', '0x8074a55')]
+-------------------
+Func Name: '(indirectstring,offset:0x1a09a):bfd_elf64_checksum_contents'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x807fbb0', '0x807fdf8')]
+-------------------
+Func Name: '(indirectstring,offset:0xdd3a):bfd_printable_arch_mach'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8057500', '0x8057567')]
+-------------------
+Func Name: '(indirectstring,offset:0x1353b):_bfd_generic_find_line'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x805fcc0', '0x805fcc3')]
+-------------------
+Func Name: '(indirectstring,offset:0xfd9f):bfd_emul_get_maxpagesize'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8058880', '0x80588b7')]
+-------------------
+Func Name: '(indirectstring,offset:0x144db):_bfd_generic_final_link'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8068170', '0x8068590')]
+-------------------
+Func Name: '(indirectstring,offset:0x1980d):_bfd_elf_single_rel_hdr'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8084740', '0x8084788')]
+-------------------
+Func Name: '(indirectstring,offset:0xe7bf):coff_write_armap'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80566f0', '0x8056d71')]
+-------------------
+Func Name: '(indirectstring,offset:0x20e13):_bfd_pe_bfd_copy_private_section_data'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80d3cc0', '0x80d3dac')]
+-------------------
+Func Name: '(indirectstring,offset:0x1ee13):elf_vxworks_link_output_symbol_hook'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80ba6e0', '0x80ba76c')]
+-------------------
+Func Name: '(indirectstring,offset:0x1eb26):elf_i386_link_hash_newfunc'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80b4fb0', '0x80b5017')]
+-------------------
+Func Name: '(indirectstring,offset:0xede):bfd_set_format'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x805e990', '0x805ea06')]
+-------------------
+Func Name: '(indirectstring,offset:0x21e6a):bfd_install_relocation'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80e8cb0', '0x80e93cb')]
+-------------------
+Func Name: '(indirectstring,offset:0x12cf9):_bfd_handle_already_linked'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80687a0', '0x8068a74')]
+-------------------
+Func Name: '(indirectstring,offset:0x18828):elf32_x86_64_elf_object_p'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8075310', '0x8075338')]
+-------------------
+Func Name: '(indirectstring,offset:0x1eabb):elf_i386_plt_sym_val'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80b2150', '0x80b219d')]
+-------------------
+Func Name: '(indirectstring,offset:0x21cc4):bfd_arch_i386_short_nop_fill'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80e79a0', '0x80e7a6b')]
+-------------------
+Func Name: '(indirectstring,offset:0x1ee8e):elf_vxworks_final_write_processing'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80ba960', '0x80ba9de')]
+-------------------
+Func Name: '(indirectstring,offset:0x1ada9):_bfd_elf_strtab_offset'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80ad7a0', '0x80ad882')]
+-------------------
+Func Name: '(indirectstring,offset:0x1898e):elf64_x86_64_elf_object_p'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8075340', '0x8075368')]
+-------------------
+Func Name: '(indirectstring,offset:0x1f59b):i386linux_mkobject'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80bebb0', '0x80bebb5')]
+-------------------
+Func Name: '(indirectstring,offset:0x1dd86):cie_hash'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80adc60', '0x80adc68')]
+-------------------
+Func Name: '(indirectstring,offset:0x11f35):close_one'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8059790', '0x805984e')]
+-------------------
+Func Name: '(indirectstring,offset:0x15315):info_hash_table_newfunc'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x806ea00', '0x806ea57')]
+-------------------
+Func Name: '(indirectstring,offset:0x229b1):demangle_real_value'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80f5530', '0x80f580d')]
+-------------------
+Func Name: '(indirectstring,offset:0x1c37e):_bfd_elf_archive_symbol_lookup'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x809ded0', '0x809e037')]
+-------------------
+Func Name: '(indirectstring,offset:0x1ef99):bfd_elf32_core_file_failing_signal'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80bda70', '0x80bda81')]
+-------------------
+Func Name: '(indirectstring,offset:0x129b8):bfd_coff_set_symbol_class'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x805e1d0', '0x805e2fc')]
+-------------------
+Func Name: '(indirectstring,offset:0x1943):print_contents'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x804d980', '0x804db71')]
+-------------------
+Func Name: '(indirectstring,offset:0x12930):coff_compute_section_file_positions'
+Func bounds (low_pc, high_pc/len) (2 chunks): [('0x80c8f90', '0x80c9811'), ('0x80dae00', '0x80db681')]
+-------------------
+Func Name: '(indirectstring,offset:0x104d5):_bfd_get_gp_value'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80582d0', '0x805831e')]
+-------------------
+Func Name: '(indirectstring,offset:0x1507f):tekhex_sizeof_headers'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x806b720', '0x806b723')]
+-------------------
+Func Name: '(indirectstring,offset:0x222ed):gnu_special'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80f73b0', '0x80f7ee8')]
+-------------------
+Func Name: '(indirectstring,offset:0xe714):bfd_generic_openr_next_archived_file'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8053250', '0x80533b5')]
+-------------------
+Func Name: '(indirectstring,offset:0x12f0d):bfd_print_symbol_vandf'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8062b30', '0x8062c9b')]
+-------------------
+Func Name: '(indirectstring,offset:0x22854):do_type'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80edc50', '0x80f00d2')]
+-------------------
+Func Name: '(indirectstring,offset:0x1886a):htab_try_create'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8106320', '0x8106411')]
+-------------------
+Func Name: '(indirectstring,offset:0x13838):bfd_set_section_size'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80625d0', '0x8062612')]
+-------------------
+Func Name: '(indirectstring,offset:0x12bbd):coff_get_lineno'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x805c790', '0x805c798')]
+-------------------
+Func Name: '(indirectstring,offset:0x205d2):_bfd_pe_print_private_bfd_data_common'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80d1490', '0x80d3bed')]
+-------------------
+Func Name: '(indirectstring,offset:0x18016):simple_dummy_multiple_definition'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80741f0', '0x80741f6')]
+-------------------
+Func Name: '(indirectstring,offset:0x1b120):_bfd_elf_get_sec_type_attr'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80841f0', '0x8084284')]
+-------------------
+Func Name: '(indirectstring,offset:0x137f7):objalloc_create'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x81072c0', '0x8107315')]
+-------------------
+Func Name: '(indirectstring,offset:0x12f7d):coff_swap_scnhdr_in'
+Func bounds (low_pc, high_pc/len) (2 chunks): [('0x80c9970', '0x80c9ab6'), ('0x80db7e0', '0x80db926')]
+-------------------
+Func Name: '(indirectstring,offset:0x134d5):_bfd_norelocs_canonicalize_reloc'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x805eb10', '0x805eb1d')]
+-------------------
+Func Name: '(indirectstring,offset:0x1144f):bfd_get_reloc_upper_bound'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8057fd0', '0x8058005')]
+-------------------
+Func Name: '(indirectstring,offset:0x149bb):_bfd_generic_link_just_syms'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80662d0', '0x80662f7')]
+-------------------
+Func Name: '(indirectstring,offset:0x21d54):bfd_elf64_archive_write_armap'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80e7df0', '0x80e82c5')]
+-------------------
+Func Name: '(indirectstring,offset:0xdcce):make_tempdir'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8051810', '0x80518a2')]
+-------------------
+Func Name: '(indirectstring,offset:0x21bdd):bfd_i386_compatible'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80e7960', '0x80e799f')]
+-------------------
+Func Name: '(indirectstring,offset:0x200ca):aout_32_translate_symbol_table'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80c41d0', '0x80c4552')]
+-------------------
+Func Name: '(indirectstring,offset:0x15181):hex_init'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8106ea0', '0x8106ea2')]
+-------------------
+Func Name: '(indirectstring,offset:0x20e74):_bfd_pe_get_symbol_info'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80d3db0', '0x80d3db5')]
+-------------------
+Func Name: '(indirectstring,offset:0x11c9f):memory_bmmap'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8058c70', '0x8058c76')]
+-------------------
+Func Name: '(indirectstring,offset:0x225bd):ada_demangle'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80ed590', '0x80eda85')]
+-------------------
+Func Name: '(indirectstring,offset:0x1fb04):aout_32_find_nearest_line'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80c5e80', '0x80c6463')]
+-------------------
+Func Name: '(indirectstring,offset:0x18b63):_bfd_elf_create_ifunc_dyn_reloc'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x807d8a0', '0x807d9cb')]
+-------------------
+Func Name: '(indirectstring,offset:0x203e0):coff_canonicalize_reloc'
+Func bounds (low_pc, high_pc/len) (2 chunks): [('0x80cdc70', '0x80ce096'), ('0x80e0ea0', '0x80e12c6')]
+-------------------
+Func Name: '(indirectstring,offset:0x1b3b2):bfd_elf_gnu_hash'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80831b0', '0x80831dd')]
+-------------------
+Func Name: '(indirectstring,offset:0x1481f):bfd_reloc_type_lookup'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80e9cc0', '0x80e9ccf')]
+-------------------
+Func Name: '(indirectstring,offset:0x1d74d):bfd_elf_gc_common_final_link'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80aafa0', '0x80aaff0')]
+-------------------
+Func Name: '(indirectstring,offset:0x12ef5):coff_set_arch_mach_hook'
+Func bounds (low_pc, high_pc/len) (2 chunks): [('0x80c9ac0', '0x80c9b1f'), ('0x80db930', '0x80db972')]
+-------------------
+Func Name: '(indirectstring,offset:0x2080d):pe_ILF_make_a_section'
+Func bounds (low_pc, high_pc/len) (2 chunks): [('0x80c9d50', '0x80c9e86'), ('0x80dbbb0', '0x80dbce6')]
+-------------------
+Func Name: '(indirectstring,offset:0x1bd57):_bfd_elf_is_function_type'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8093810', '0x8093821')]
+-------------------
+Func Name: '(indirectstring,offset:0x200e9):aout_32_get_symbol_info'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80c5ad0', '0x80c5b6f')]
+-------------------
+Func Name: '(indirectstring,offset:0x7a12):bfd_init'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x805ea40', '0x805ea42')]
+-------------------
+Func Name: '(indirectstring,offset:0xdbad):ar_emul_default_append'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8050890', '0x80508f1')]
+-------------------
+Func Name: '(indirectstring,offset:0x242b7):htab_collisions'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8106ba0', '0x8106bdf')]
+-------------------
+Func Name: '(indirectstring,offset:0x181b6):bfd_init_section_compress_status'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8074c30', '0x8074d10')]
+-------------------
+Func Name: '(indirectstring,offset:0x19f8f):bfd_elf64_core_file_failing_command'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8080ec0', '0x8080ed1')]
+-------------------
+Func Name: '(indirectstring,offset:0xe8e8):bfd_stat'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80593a0', '0x80593e8')]
+-------------------
+Func Name: '(indirectstring,offset:0x14205):bfd_hash_traverse'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8064b20', '0x8064b98')]
+-------------------
+Func Name: '(indirectstring,offset:0x1a276):bfd_elf64_core_file_matches_executable_p'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8080f20', '0x8080faf')]
+-------------------
+Func Name: '(indirectstring,offset:0x2107c):_bfd_pei_swap_sym_in'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80ce0a0', '0x80ce307')]
+-------------------
+Func Name: '(indirectstring,offset:0x20f6e):_bfd_pei_swap_sym_out'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80ce310', '0x80ce3f1')]
+-------------------
+Func Name: '(indirectstring,offset:0x14b13):srec_canonicalize_symtab'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8069440', '0x8069505')]
+-------------------
+Func Name: '(indirectstring,offset:0x21adf):_bfd_pex64i_swap_aouthdr_in'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80e1d40', '0x80e2515')]
+-------------------
+Func Name: '(indirectstring,offset:0x175b):bfd_bread'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8059190', '0x8059268')]
+-------------------
+Func Name: '(indirectstring,offset:0xdd72):bfd_arch_list'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8057270', '0x80572e4')]
+-------------------
+Func Name: '(indirectstring,offset:0x21b67):elf64_generic_link_add_symbols'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80e76d0', '0x80e7717')]
+-------------------
+Func Name: '(indirectstring,offset:0x1ecf6):elf_i386_gc_mark_hook'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80b26b0', '0x80b2733')]
+-------------------
+Func Name: '(indirectstring,offset:0x21ac7):_bfd_pex64i_swap_sym_in'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80e1360', '0x80e15c7')]
+-------------------
+Func Name: '(indirectstring,offset:0x1d7d7):_bfd_elf_section_already_linked'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80ab3c0', '0x80ab7bf')]
+-------------------
+Func Name: '(indirectstring,offset:0x1a593):bfd_elf64_write_shdrs_and_ehdr'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x807ef30', '0x807f0d3')]
+-------------------
+Func Name: '(indirectstring,offset:0xdbfe):ar_emul_default_usage'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8050190', '0x80501ed')]
+-------------------
+Func Name: '(indirectstring,offset:0x1338b):bfd_put_bits'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x805f650', '0x805f6e5')]
+-------------------
+Func Name: '(indirectstring,offset:0x1c99d):bfd_elf_get_needed_list'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80a58e0', '0x80a58f4')]
+-------------------
+Func Name: '(indirectstring,offset:0x20a67):_bfd_coff_generic_relocate_section'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80d9920', '0x80d9f5f')]
+-------------------
+Func Name: '(indirectstring,offset:0x214a1):_bfd_coff_link_hash_newfunc'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80d5640', '0x80d56ae')]
+-------------------
+Func Name: '(indirectstring,offset:0x2289f):internal_cplus_demangle'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80f7ef0', '0x80f8837')]
+-------------------
+Func Name: '(indirectstring,offset:0x1c103):_bfd_elf_dynamic_symbol_p'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x809d890', '0x809d98f')]
+-------------------
+Func Name: '(indirectstring,offset:0xdd23):bfd_set_default_target'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8063d30', '0x8063df7')]
+-------------------
+Func Name: '(indirectstring,offset:0x1fe4b):aout_32_get_symtab_upper_bound'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80c5a90', '0x80c5abf')]
+-------------------
+Func Name: '(indirectstring,offset:0x21de9):bfd_default_reloc_type_lookup'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80e9ce0', '0x80e9d78')]
+-------------------
+Func Name: '(indirectstring,offset:0x14ca7):srec_scan'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x806a280', '0x806ae0e')]
+-------------------
+Func Name: '(indirectstring,offset:0x1e7bf):elf_i386_fbsd_post_process_headers'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80b21a0', '0x80b21a5')]
+-------------------
+Func Name: '(indirectstring,offset:0xfc1f):bfd_get_arch_size'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80580e0', '0x8058106')]
+-------------------
+Func Name: '(indirectstring,offset:0x131bf):_bfd_nocore_core_file_failing_command'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x805eb40', '0x805eb55')]
+-------------------
+Func Name: '(indirectstring,offset:0x15062):tekhex_write_object_contents'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x806be20', '0x806c8ef')]
+-------------------
+Func Name: '(indirectstring,offset:0x220b6):strrevcmp_align'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80eb690', '0x80eb717')]
+-------------------
+Func Name: '(indirectstring,offset:0x24263):htab_hash_string'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8106be0', '0x8106c05')]
+-------------------
+Func Name: '(indirectstring,offset:0x19832):_bfd_elf_rela_local_sym'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8093100', '0x80931ec')]
+-------------------
+Func Name: '(indirectstring,offset:0x21971):_bfd_pex64_print_ce_compressed_pdata'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80e4100', '0x80e46f2')]
+-------------------
+Func Name: '(indirectstring,offset:0x13978):objalloc_free'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8107400', '0x810742e')]
+-------------------
+Func Name: '(indirectstring,offset:0x115f2):bfd_set_file_flags'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8058070', '0x80580d1')]
+-------------------
+Func Name: '(indirectstring,offset:0x1bbdc):bfd_get_elf_phdrs'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8093090', '0x80930e3')]
+-------------------
+Func Name: '(indirectstring,offset:0x1b7ba):_bfd_elf_copy_private_symbol_data'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x808cbb0', '0x808cc8e')]
+-------------------
+Func Name: '(indirectstring,offset:0x134c3):bfd_0u'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x805eab0', '0x805eab3')]
+-------------------
+Func Name: '(indirectstring,offset:0x13326):bfd_zmalloc2'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x805ef40', '0x805f038')]
+-------------------
+Func Name: '(indirectstring,offset:0x19ab0):_bfd_elf_hash_symbol'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80a22b0', '0x80a22ea')]
+-------------------
+Func Name: '(indirectstring,offset:0x1d6d0):_bfd_elf_merge_symbol'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x809a330', '0x809b467')]
+-------------------
+Func Name: '(indirectstring,offset:0x11d47):bfd_get_size'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8059620', '0x8059658')]
+-------------------
+Func Name: '(indirectstring,offset:0x1ba8c):_bfd_elf_swap_verneed_out'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8082f30', '0x8082fe2')]
+-------------------
+Func Name: '(indirectstring,offset:0x18175):bfd_init_section_decompress_status'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8074ad0', '0x8074c2d')]
+-------------------
+Func Name: '(indirectstring,offset:0x148d8):bfd_section_already_linked_table_traverse'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80686a0', '0x80686c3')]
+-------------------
+Func Name: '(indirectstring,offset:0x134f6):bfd_getb64'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x805f280', '0x805f31b')]
+-------------------
+Func Name: '(indirectstring,offset:0x20287):aout_32_print_symbol'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80c5b70', '0x80c5c80')]
+-------------------
+Func Name: '(indirectstring,offset:0x1a7d1):bfd_elf_get_dt_soname'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80a5920', '0x80a5943')]
+-------------------
+Func Name: '(indirectstring,offset:0x14df6):binary_get_symbol_info'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x806b120', '0x806b135')]
+-------------------
+Func Name: '(indirectstring,offset:0x1e25d):dwarf1_unit_find_nearest_line'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80b1930', '0x80b1c21')]
+-------------------
+Func Name: '(indirectstring,offset:0x241d9):htab_expand'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8105c40', '0x8105ec5')]
+-------------------
+Func Name: '(indirectstring,offset:0x13158):read_signed_leb128'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x805fc40', '0x805fcc0')]
+-------------------
+Func Name: '(indirectstring,offset:0x20cd1):coff_sort_func_alent'
+Func bounds (low_pc, high_pc/len) (2 chunks): [('0x80c8a30', '0x80c8a97'), ('0x80da280', '0x80da2e7')]
+-------------------
+Func Name: '(indirectstring,offset:0x1d8ca):bfd_elf_get_obj_attr_int'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80ac1f0', '0x80ac25a')]
+-------------------
+Func Name: '(indirectstring,offset:0x241b6):htab_create'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8106220', '0x8106311')]
+-------------------
+Func Name: '(indirectstring,offset:0x235b7):d_special_name'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8102e40', '0x8103690')]
+-------------------
+Func Name: '(indirectstring,offset:0x204a3):_bfd_pe_bfd_copy_private_bfd_data_common'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80d3bf0', '0x80d3cbc')]
+-------------------
+Func Name: '(indirectstring,offset:0xdd80):bfd_get_archive_filename'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8051a20', '0x8051b23')]
+-------------------
+Func Name: '(indirectstring,offset:0x242ac):eq_pointer'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8105c30', '0x8105c3f')]
+-------------------
+Func Name: '(indirectstring,offset:0x10179):bfd_set_error_program_name'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8057a30', '0x8057a3a')]
+-------------------
+Func Name: '(indirectstring,offset:0x1c5cd):_bfd_write_section_stabs'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80eb1c0', '0x80eb446')]
+-------------------
+Func Name: '(indirectstring,offset:0x1d7b8):_bfd_elf_link_renumber_dynsyms'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8094910', '0x8094a35')]
+-------------------
+Func Name: '(indirectstring,offset:0xe8da):filename_ncmp'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8105a50', '0x8105a55')]
+-------------------
+Func Name: '(indirectstring,offset:0x1ac5b):_bfd_elf_init_private_section_data'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8089e30', '0x8089fe8')]
+-------------------
+Func Name: '(indirectstring,offset:0x1c9b5):_bfd_elf_link_hash_fixup_symbol'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x809d6d0', '0x809d7a7')]
+-------------------
+Func Name: '(indirectstring,offset:0x141ea):bfd_hash_replace'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80649e0', '0x8064a3f')]
+-------------------
+Func Name: '(indirectstring,offset:0x1c77b):bfd_elf_link_record_local_dynamic_symbol'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x809a060', '0x809a207')]
+-------------------
+Func Name: '(indirectstring,offset:0x1c360):bfd_elf_discard_info'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80aaff0', '0x80ab3b1')]
+-------------------
+Func Name: '(indirectstring,offset:0x1ebd6):elf_i386_hash_symbol'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80b21b0', '0x80b21db')]
+-------------------
+Func Name: '(indirectstring,offset:0x1f0f4):bfd_elf32_swap_reloca_out'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80bae10', '0x80bae87')]
+-------------------
+Func Name: '(indirectstring,offset:0x5098):xmalloc'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8107760', '0x8107787')]
+-------------------
+Func Name: '(indirectstring,offset:0x1fdea):aout_32_new_section_hook'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80c3ea0', '0x80c3f7b')]
+-------------------
+Func Name: '(indirectstring,offset:0x11e8b):cache_btell'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x805a010', '0x805a052')]
+-------------------
+Func Name: '(indirectstring,offset:0xe63d):_bfd_compute_and_write_armap'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8054d40', '0x8055135')]
+-------------------
+Func Name: '(indirectstring,offset:0x1fab9):aout_32_link_add_symbols'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80c65c0', '0x80c667e')]
+-------------------
+Func Name: '(indirectstring,offset:0x1efbc):bfd_elf32_slurp_symbol_table'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80baf40', '0x80bb585')]
+-------------------
+Func Name: '(indirectstring,offset:0x1f0db):bfd_elf32_swap_symbol_in'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80bac10', '0x80baced')]
+-------------------
+Func Name: '(indirectstring,offset:0x13501):_bfd_n1'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x805ead0', '0x805eae8')]
+-------------------
+Func Name: '(indirectstring,offset:0xdcdb):bfd_target_list'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x80642a0', '0x8064323')]
+-------------------
+Func Name: '(indirectstring,offset:0xe9a3):bfd_default_scan'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8056dd0', '0x80571b1')]
+-------------------
+Func Name: '(indirectstring,offset:0x1170b):bfd_get_assert_handler'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8057a60', '0x8057a66')]
+-------------------
+Func Name: '(indirectstring,offset:0x8382):expandargv'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8105610', '0x81059f8')]
+-------------------
+Func Name: '(indirectstring,offset:0xfcbf):bfd_set_start_address'
+Func bounds (low_pc, high_pc/len) (1 chunks): [('0x8058220', '0x8058238')]
+-------------------
