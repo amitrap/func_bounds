@@ -6,7 +6,7 @@ import os
 import sys
 import subprocess
 
-FUNCS_BOUNDS_SCRIPT_PATH = "./funcs_bounds.py"
+FUNC_BOUNDS_SCRIPT_PATH = "./func_bounds.py"
 
 def run_command(cmdline):
 	"""
@@ -19,7 +19,7 @@ dirpath, dirnames, filenames = os.walk(sys.argv[1]).next()
 for name in filenames:
 	f_path = os.path.join(dirpath,name)
 	print "Processing... " + f_path
-	out, err = run_command("python %s %s" %(FUNCS_BOUNDS_SCRIPT_PATH, f_path,))
+	out, err = run_command('python %s %s' % (FUNC_BOUNDS_SCRIPT_PATH, f_path,))
 	file(f_path + ".bounds", "wb").write(out)
 print "Finished successfully!"
 

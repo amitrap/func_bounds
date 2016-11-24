@@ -15,7 +15,7 @@ a	compares function boundaries discovered by IDA in stripped+unstripped binaries
 	
 	undiscovered_func_bounds = frozenset(unstripped_bounds_dict.items()) - frozenset(stripped_bounds_dict.items())
 	
-	print "IDA undiscovered %f%% procedures from stripped-binary-params: %s" %((float(len(undiscovered_func_bounds)) / len(unstripped_bounds_dict)) * 100.0, stripped_func_bounds_file_path)
+	print "IDA undiscovered %f%% procedures (%d/%d) from stripped-binary-params: %s"  %((float(len(undiscovered_func_bounds)) / len(unstripped_bounds_dict)) * 100.0, len(undiscovered_func_bounds), len(unstripped_bounds_dict), stripped_func_bounds_file_path)
 	if len(undiscovered_func_bounds) > 0:
 		print "List of %d functions which were undiscovered successfully after stripping:" %(len(undiscovered_func_bounds))
 		for func in undiscovered_func_bounds:

@@ -13,7 +13,7 @@ def run_command(cmdline):
 	return p.communicate()
 
 def pretty_print_dict(funcs_dict):
-	print "FUNCTIONS BOUNDS - "
+	print "FUNCTIONS BOUNDS - (Total - %d functions)" % (len(funcs_dict))
 	for k in funcs_dict:
 		print "Func Name: %r" % (k,)
 		print "Func bounds (low_pc, high_pc/len) (%d chunks): %r" % (len(funcs_dict[k]), funcs_dict[k])
