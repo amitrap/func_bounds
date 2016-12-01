@@ -25,8 +25,10 @@ def main():
 	"""
 	Main logics, generates result file for function bounds
 	"""
-	file(GetInputFile() + ".bounds.auto.py", "wb").write("%r" % (get_funcs_bounds()))
-	print "get_funcs_bounds() SUCCESS!"
+	func_bounds_list = get_funcs_bounds()
+	file(GetInputFile() + ".bounds.auto.py", "wb").write("%r" % (func_bounds_list))
+	print "get_funcs_bounds() SUCCESS! Funcs Count = %d" %(len(func_bounds_list[0]))
 	
 if __name__ == "__main__":
+	idaapi.autoWait()
 	main()
