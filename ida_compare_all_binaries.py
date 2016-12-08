@@ -4,13 +4,15 @@ import time
 import re
 
 # Adjust IDA PATH according to configuration on your machine
-IDA_PATH = r'C:\Program Files (x86)\IDA 6.4\idaq.exe'
-BINARIES_NAME_PATTERN = "gcc_[a-zA-Z]+_32_O0_[a-zA-Z]+"
-BOUNDS_NAME_PATTERN = BINARIES_NAME_PATTERN + r"\.bounds\.auto\.py"
+IDA_PATH = r'C:\Program Files (x86)\IDA 6.9\idaq64.exe'
+#BINARIES_NAME_PATTERN = "gcc_[a-zA-Z]+_32_O[0123]_.*?"
+BINARIES_NAME_PATTERN = "^.*"
 
 BASE_DIR = os.path.dirname(os.path.realpath(__file__))
-UNSTRIPPED_BINARIES_PATH = os.path.join(BASE_DIR, "binary")
-STRIPPED_BINARIES_PATH = os.path.join(BASE_DIR, "binary_strip")
+ARCH_DIR = os.path.join(BASE_DIR, r"bin_repo\amd64") # Change this to another arch (e.g. amd64)
+UNSTRIPPED_BINARIES_PATH = os.path.join(ARCH_DIR, "unstripped")
+STRIPPED_BINARIES_PATH = os.path.join(ARCH_DIR, "stripped")
+
 IDA_FUNC_BOUNDS_PATH = os.path.join(BASE_DIR, "ida_func_bounds.py")
 IDA_COMMANDLINE = IDA_PATH + r' -B -S"' + IDA_FUNC_BOUNDS_PATH + '" %s'
 
@@ -26,7 +28,7 @@ def generate_all_bounds(binpath):
 	p_list = []
 	dirpath, dirnames, filenames = os.walk(binpath).next()
 	for name in filenames:
-		if not re.match(BINARIES_NAME_PATTERN, name):
+		if name.endswith(r".bounds.auto.py") or not re.match(BINARIES_NAME_PATTERN, name):
 			continue
 		p_list.append(run_command_async(IDA_COMMANDLINE % os.path.join(dirpath, name)))
 	raw_input("IDA Finished parsing ALL?")
@@ -43,7 +45,7 @@ def delete_all_temps(binpath, ext_list):
 			if name.endswith(ext):
 				os.unlink(os.path.join(dirpath, name))
 def regenerate_all_bounds(binpath):
-	temp_exts = [".id0", ".id1", ".til", ".nam"]
+	temp_exts = [".id0", ".id1", ".id2", ".til", ".nam"]
 	delete_all_temps(binpath, temp_exts)
 	generate_all_bounds(binpath)
 	time.sleep(5)
@@ -55,7 +57,7 @@ def compare_all_bounds(unstripped_path, stripped_path):
 	
 	dirpath, dirnames, filenames = os.walk(unstripped_path).next()
 	for name in filenames:
-		if not re.match(BOUNDS_NAME_PATTERN, name):
+		if not (name.endswith(r".bounds.auto.py") and re.match(BINARIES_NAME_PATTERN, name)):
 			continue
 		try:		
 			unstripped_func_bounds_file_path = os.path.join(unstripped_path, name)
