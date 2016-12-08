@@ -5,8 +5,7 @@ import re
 
 # Adjust IDA PATH according to configuration on your machine
 IDA_PATH = r'C:\Program Files (x86)\IDA 6.4\idaq.exe'
-BINARIES_NAME_PATTERN = "gcc_[a-zA-Z]+_32_O0_[a-zA-Z]+"
-BOUNDS_NAME_PATTERN = BINARIES_NAME_PATTERN + r"\.bounds\.auto\.py"
+BINARIES_NAME_PATTERN = "gcc_[a-zA-Z]+_32_O[0123]_.*?"
 
 BASE_DIR = os.path.dirname(os.path.realpath(__file__))
 UNSTRIPPED_BINARIES_PATH = os.path.join(BASE_DIR, "binary")
@@ -26,7 +25,7 @@ def generate_all_bounds(binpath):
 	p_list = []
 	dirpath, dirnames, filenames = os.walk(binpath).next()
 	for name in filenames:
-		if not re.match(BINARIES_NAME_PATTERN, name):
+		if name.endswith(r".bounds.auto.py") or not re.match(BINARIES_NAME_PATTERN, name):
 			continue
 		p_list.append(run_command_async(IDA_COMMANDLINE % os.path.join(dirpath, name)))
 	raw_input("IDA Finished parsing ALL?")
@@ -55,7 +54,7 @@ def compare_all_bounds(unstripped_path, stripped_path):
 	
 	dirpath, dirnames, filenames = os.walk(unstripped_path).next()
 	for name in filenames:
-		if not re.match(BOUNDS_NAME_PATTERN, name):
+		if not (name.endswith(r".bounds.auto.py") and re.match(BINARIES_NAME_PATTERN, name)):
 			continue
 		try:		
 			unstripped_func_bounds_file_path = os.path.join(unstripped_path, name)
@@ -79,8 +78,8 @@ def compare_all_bounds(unstripped_path, stripped_path):
 	print 'Results for files with pattern "%s" is: (undiscovered count/func count) (%d/%d), %f%%' %(BINARIES_NAME_PATTERN, undiscovered_count, unstripped_count, (float(undiscovered_count) / unstripped_count) * 100.0)
 		
 def main():
-	regenerate_all_bounds(STRIPPED_BINARIES_PATH)
-	regenerate_all_bounds(UNSTRIPPED_BINARIES_PATH)
+	#regenerate_all_bounds(STRIPPED_BINARIES_PATH)
+	#regenerate_all_bounds(UNSTRIPPED_BINARIES_PATH)
 	compare_all_bounds(UNSTRIPPED_BINARIES_PATH, STRIPPED_BINARIES_PATH)
 	
 if __name__ == "__main__":
