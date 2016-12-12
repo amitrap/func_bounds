@@ -2,24 +2,19 @@ import os
 import subprocess
 import time
 import re
+import sys
+
 
 # Adjust IDA PATH according to configuration on your machine
-IDA_PATH = r'C:\Program Files (x86)\IDA 6.9\idaq64.exe'
-#BINARIES_NAME_PATTERN = "gcc_[a-zA-Z]+_32_O[0123]_.*?"
+IDA_PATH = r'C:\Program Files (x86)\IDA 6.4\idaq.exe'
+#BINARIES_NAME_PATTERN = "gcc_[a-zA-Z]+_32_O[0123]_a.*"
 BINARIES_NAME_PATTERN = "^.*"
 
 BASE_DIR = os.path.dirname(os.path.realpath(__file__))
-ARCH_DIR = os.path.join(BASE_DIR, r"bin_repo\amd64") # Change this to another arch (e.g. amd64)
-UNSTRIPPED_BINARIES_PATH = os.path.join(ARCH_DIR, "unstripped")
-STRIPPED_BINARIES_PATH = os.path.join(ARCH_DIR, "stripped")
-
 IDA_FUNC_BOUNDS_PATH = os.path.join(BASE_DIR, "ida_func_bounds.py")
 IDA_COMMANDLINE = IDA_PATH + r' -B -S"' + IDA_FUNC_BOUNDS_PATH + '" %s'
 
 def run_command_async(cmdline):
-	"""
-	Runs given commandline and return (out, err) results
-	"""
 	print "Executing %s" % cmdline
 	p = subprocess.Popen(cmdline.split())
 	return p
@@ -80,10 +75,17 @@ def compare_all_bounds(unstripped_path, stripped_path):
 			
 	print 'Results for files with pattern "%s" is: (undiscovered count/func count) (%d/%d), %f%%' %(BINARIES_NAME_PATTERN, undiscovered_count, unstripped_count, (float(undiscovered_count) / unstripped_count) * 100.0)
 		
-def main():
+def main(arch):
+	ARCH_DIR = os.path.join(os.path.join(BASE_DIR, r"bin_repo"), arch)
+	UNSTRIPPED_BINARIES_PATH = os.path.join(ARCH_DIR, "unstripped")
+	STRIPPED_BINARIES_PATH = os.path.join(ARCH_DIR, "stripped")
+
 	regenerate_all_bounds(STRIPPED_BINARIES_PATH)
 	regenerate_all_bounds(UNSTRIPPED_BINARIES_PATH)
 	compare_all_bounds(UNSTRIPPED_BINARIES_PATH, STRIPPED_BINARIES_PATH)
 	
 if __name__ == "__main__":
-	main()
+	if len(sys.argv) != 2 or sys.argv[1] not in ("i386", "amd64", "aarch64"):
+		print "%s <i386/amd64/aarch64>" %(sys.argv[0])
+	else:
+		main(sys.argv[1])
