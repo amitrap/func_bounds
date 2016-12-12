@@ -1,6 +1,7 @@
 BAP Installation Steps:
 =======================
-My setup consists of Ubuntu 14.04 x64, 2 GB RAM machine
+My machine is running Ubuntu 14.04 x64 with 2 GB RAM (BAP installation needs at least 2 GB to run successfully).
+Run the following commands in order to install it successfully:
 - wget https://raw.github.com/ocaml/opam/master/shell/opam_installer.sh -O - | sh -s /usr/local/bin
 - opam init --comp=4.02.3
 - opam repo add bap git://github.com/BinaryAnalysisPlatform/opam-repository
