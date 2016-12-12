@@ -9,8 +9,6 @@ Run the following commands in order to install it successfully:
 - sudo apt-get install ocaml-native-compilers
 - opam depext --install bap
 - bap-byteweight update
-- pip install bap
-- pip install bap[rpc]
 
 Tests Instructions:
 ===================
