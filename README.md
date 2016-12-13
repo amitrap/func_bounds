@@ -20,7 +20,7 @@ My machine is running Ubuntu 16.04 x64 with 2 GB RAM (BAP installation needs at 
 - opam repo add bap git://github.com/BinaryAnalysisPlatform/opam-repository
 - sudo apt-get install ocaml-native-compilers
 - opam switch 4.02.3
-- eval `opam config env`
+- eval \`opam config env\`
 - opam install bap.1.0.0
 
 Tests Instructions:
