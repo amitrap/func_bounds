@@ -1,14 +1,24 @@
 BAP Installation Steps:
 =======================
-My machine is running Ubuntu 14.04 x64 with 2 GB RAM (BAP installation needs at least 2 GB to run successfully).
+
+v0.9.9:
+-------
+My machine is running Ubuntu 14.04 LTS x64 with 2 GB RAM (BAP installation needs at least 2 GB to run successfully).
 Run the following commands in order to install it successfully:
-- wget https://raw.github.com/ocaml/opam/master/shell/opam_installer.sh -O - | sh -s /usr/local/bin
-- opam init --comp=4.02.3
-- opam repo add bap git://github.com/BinaryAnalysisPlatform/opam-repository
-- eval `opam config env`
-- sudo apt-get install ocaml-native-compilers
-- opam depext --install bap
-- bap-byteweight update
+1. wget https://raw.github.com/ocaml/opam/master/shell/opam_installer.sh -O - | sh -s /usr/local/bin
+2. opam init --comp=4.02.3
+3. opam repo add bap git://github.com/BinaryAnalysisPlatform/opam-repository
+4. sudo apt-get install ocaml-native-compilers
+5. eval `opam config env`
+6. opam depext --install bap
+
+v1.0.0:
+-------
+My machine is running Ubuntu 16.04 x64 with 2 GB RAM (BAP installation needs at least 2 GB to run successfully).
+* All steps 1-4 mentioned above. Then:
+5. opam switch 4.02.3
+6. eval `opam config env`
+7. opam install bap.1.0.0
 
 Tests Instructions:
 ===================
@@ -48,5 +58,9 @@ amd64/aarch64 Comparison
 	- amd64: 3.74% of stripped procedures are not found correctly
 	- aarch64: 12.14% of stripped procedures are not found correctly
 - BAP
-	- amd64: 32.64% of stripped procedures are not found correctly
-	- aarch64: 99.67% of stripped procedures are not found correctly
+	- v0.9.9
+		- amd64: 32.64% of stripped procedures are not found correctly
+		- aarch64: 99.67% of stripped procedures are not found correctly
+	- v1.0.0
+		- amd64: 23.22% of stripped procedures are not found correctly
+		- aarch64: Failed with the message: "byteweight.error> no signatures for specified compiler and architecture"
