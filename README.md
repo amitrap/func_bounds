@@ -34,7 +34,7 @@ In order to reproduce the results of this research, you should use the following
 	- To filter specific files for comparison, adjust BINARIES_NAME_PATTERN regexp (default is "^.*")
 	- Remeber to adjust IDA path on your machine before use, and adjust it when shifting from x86 to x64 (idaq.exe to idaq64.exe)
 - angr_compare_all_binaries.py [arch: i386/amd64/aarch64]
-	- This script comapares all function bounds of stripped and unstripped binaries version under bin_repo/<arch> using angr.io framework.
+	- This script comapares all function bounds of stripped and unstripped binaries version under bin_repo/<arch> using angr framework.
 	- To filter specific files for comparison, adjust BINARIES_NAME_PATTERN regexp (default is "^.*")
 - bap_compare_all_binaries.py [arch: i386/amd64/aarch64]
 	- This script comapares all function bounds of stripped and unstripped binaries version under bin_repo/<arch> using BAP framework.
