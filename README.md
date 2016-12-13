@@ -9,7 +9,7 @@ Run the following commands in order to install it successfully:
 - opam init --comp=4.02.3
 - opam repo add bap git://github.com/BinaryAnalysisPlatform/opam-repository
 - sudo apt-get install ocaml-native-compilers
-- eval `opam config env`
+- eval \`opam config env\`
 - opam depext --install bap
 
 v1.0.0:
@@ -26,17 +26,17 @@ My machine is running Ubuntu 16.04 x64 with 2 GB RAM (BAP installation needs at 
 Tests Instructions:
 ===================
 In order to reproduce the results of this research, you should use the following scripts:
-- func_bounds.py [executable_path]
+- func_bounds.py \<executable_path\>
 	- This script extracts all function names and boundaries for unstripped binaries using objdump and DWARF info inside the ELF
-- ida_compare_all_binaries.py [arch: i386/amd64/aarch64]
+- ida_compare_all_binaries.py \<arch: i386/amd64/aarch64\>
 	- This script comapares all function bounds of stripped and unstripped binaries version under bin_repo/<arch> using IDA.
 	- It runs multiple instances of IDA, each instance for a different binary. So beware of filters which catches too many files.
 	- To filter specific files for comparison, adjust BINARIES_NAME_PATTERN regexp (default is "^.*")
 	- Remeber to adjust IDA path on your machine before use, and adjust it when shifting from x86 to x64 (idaq.exe to idaq64.exe)
-- angr_compare_all_binaries.py [arch: i386/amd64/aarch64]
+- angr_compare_all_binaries.py \<arch: i386/amd64/aarch64\>
 	- This script comapares all function bounds of stripped and unstripped binaries version under bin_repo/<arch> using angr framework.
 	- To filter specific files for comparison, adjust BINARIES_NAME_PATTERN regexp (default is "^.*")
-- bap_compare_all_binaries.py [arch: i386/amd64/aarch64]
+- bap_compare_all_binaries.py \<arch: i386/amd64/aarch64\>
 	- This script comapares all function bounds of stripped and unstripped binaries version under bin_repo/<arch> using BAP framework.
 	- To filter specific files for comparison, adjust BINARIES_NAME_PATTERN regexp (default is "^.*")
 
