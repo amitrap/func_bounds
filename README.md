@@ -45,11 +45,11 @@ General Findings:
 i386 IDA Comparison
 ------------------------
 338 randomly picked binaries from binutils,coreutils,findutils
-33.18% of stripped procedures are not found correctly by IDA
-- For O0 the percetage is 30.94%
-- For O1 the percetage is 33.36%
-- For O2 the percetage is 35.23%
-- For O3 the percetage is 39.99%
+- 33.18% of stripped procedures are not found correctly by IDA
+	- For O0 the percetage is 30.94%
+	- For O1 the percetage is 33.36%
+	- For O2 the percetage is 35.23%
+	- For O3 the percetage is 39.99%
 
 amd64/aarch64 Comparison
 ------------------------
