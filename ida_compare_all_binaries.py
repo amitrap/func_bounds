@@ -7,7 +7,7 @@ import sys
 
 # Adjust IDA PATH according to configuration on your machine
 IDA_PATH = r'C:\Program Files (x86)\IDA 6.4\idaq.exe'
-#BINARIES_NAME_PATTERN = "gcc_[a-zA-Z]+_32_O[0123]_a.*"
+#BINARIES_NAME_PATTERN = "gcc_[a-zA-Z]+_32_O[0123]_.*"
 BINARIES_NAME_PATTERN = "^.*"
 
 BASE_DIR = os.path.dirname(os.path.realpath(__file__))

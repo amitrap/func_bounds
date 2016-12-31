@@ -1,9 +1,12 @@
-# This script is using idapython in order to enumerate all function within ".text" section, collecting their chunks bounds and names
+# This script is using idapython in order to enumerate all function, collecting their chunks bounds and names
 # It generates a "*.bounds.auto.py" output file for "*" holding results in the following format: 
 # [{func_addr: [(chunk_start_addr, chunk_end_addr), ...], ...}, {func_addr: "func_name", ...}]
 import idautils
 import idaapi
 import idc
+
+# If you want this script to generate functions only from .text section, set this global to True
+TEXT_SECTION_ONLY = False
 
 def get_text_segment():
 	"""
@@ -18,8 +21,12 @@ def get_funcs_bounds():
 	"""
 	Returns input file functions and their chunks' bounds
 	"""
-	seg = get_text_segment()
-	return [{func: list(idautils.Chunks(func)) for func in idautils.Functions(idc.SegStart(seg), idc.SegEnd(seg))}, dict(idautils.Names())]
+	seg_start, seg_end = None, None
+	if TEXT_SECTION_ONLY:
+		seg = get_text_segment()
+		seg_start = idc.SegStart(seg)
+		seg_end = idc.SegEnd(seg)
+	return [{func: list(idautils.Chunks(func)) for func in idautils.Functions(seg_start, seg_end)}, dict(idautils.Names())]
 			
 def main():
 	"""
