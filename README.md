@@ -55,15 +55,15 @@ amd64/aarch64 Comparison
 ------------------------
 95 randomly picked binaries from coreutils tested with IDA, angr and BAP. Findings are:
 - IDA
-	- amd64: 37.13% of stripped procedures are not found correctly
-	- aarch64: 40.54% of stripped procedures are not found correctly
+	- amd64: 37.13% (10734/28913) of stripped procedures are not found correctly
+	- aarch64: 40.54% (11805/29120) of stripped procedures are not found correctly
 - angr
-	- amd64: 3.74% of stripped procedures are not found correctly
-	- aarch64: 12.14% of stripped procedures are not found correctly
+	- amd64: 3.74% (915/24516) of stripped procedures are not found correctly
+	- aarch64: 12.14% (2678/22054) of stripped procedures are not found correctly
 - BAP
 	- v0.9.9
-		- amd64: 32.64% of stripped procedures are not found correctly
-		- aarch64: 99.67% of stripped procedures are not found correctly
+		- amd64: 32.64% (5263/16125) of stripped procedures are not found correctly
+		- aarch64: 99.67% (8876/8905) of stripped procedures are not found correctly
 	- v1.0.0
-		- amd64: 23.22% of stripped procedures are not found correctly
+		- amd64: 23.22% (4172/17969) of stripped procedures are not found correctly
 		- aarch64: Failed with the message: "byteweight.error> no signatures for specified compiler and architecture"
